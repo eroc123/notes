@@ -4,15 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "56207a8984d5c2e8",
+        "id": "52f5be0544ecc1f2",
         "type": "tabs",
         "children": [
           {
-            "id": "41fe0dd0e58f64dc",
+            "id": "a48f605fa7b8a168",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ComSci/ComSci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195f72a30ef53462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Notes/Quick Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7400d1c3037e20c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComSci/Untitled/Binary addition and subtraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a28cff54e5f45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComSci/Untitled/Usage of number systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5482ea4fe914c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComSci/ComSci.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ComSci/ComSci.md"
+              }
             }
           },
           {
@@ -142,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,45 +212,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6f0c13ce202adc67",
+  "active": "a48f605fa7b8a168",
   "lastOpenFiles": [
-    "README.md",
-    "Physics/Syllabus/8. Superposition.md",
-    "Physics/Syllabus/9. Electricity.md",
-    "Physics/Syllabus/7. Waves.md",
-    "Physics/Syllabus/6. Deformation of solids.md",
-    "Physics/Syllabus/5. Work, energy and power.md",
-    "Physics/Syllabus/4. Forces, density and pressure.md",
-    "Physics/Syllabus/2. Kinematics.md",
-    "Physics/Syllabus/3. Dynamics.md",
-    "Physics/Syllabus/13. Gravitational fields.md",
-    "Physics/Syllabus/12. Motion in a circle.md",
-    "Physics/Syllabus/11. Particle physics.md",
-    "Physics/Syllabus/10. D.C. circuits.md",
-    "Physics/Syllabus/1. Physical quantities and units.md",
+    "Quick Notes/Quick Notes.md",
+    "ComSci/ComSci.md",
+    "Quick Notes/Untitled.md",
+    "Quick Notes/Untitled",
+    "Quick Notes",
+    "ComSci/Untitled/Number systems.md",
+    "ComSci/Untitled/Usage of number systems.md",
+    "ComSci/Untitled/Binary addition and subtraction.md",
+    "ComSci/Untitled",
+    "ComSci/Untitled/Decimal prefixes.md",
+    "ComSci/Untitled/Conversion between number systems.md",
+    "ComSci/Untitled/Character representation.md",
+    "Math/Math.md",
+    "Math/Units/7 - Vectors.md",
+    "Math/Units/6 - Matices and their inverses.md",
+    "Math/Units/5 - Polar coordinates.md",
+    "Math/Units/4 - Rational functions and graphs.md",
+    "Math/Units/3 - Roots of polynomials.md",
+    "Math/Units/2 - Series and induction.md",
+    "Math/Units/1 - Matrices and transformations.md",
+    "Physics/Units/1 - Physical quantities and units.md",
+    "Physics/Units/2 - Kinematics.md",
+    "Physics/Units/3 - Dynamics.md",
+    "Physics/Units/4 - Forces, density and pressure.md",
+    "Physics/Units/13 - Gravitational fields.md",
+    "Physics/Units/12 - Motion in a circle.md",
+    "Physics/Units/11 - Particle physics.md",
+    "Physics/Units/10 - D.C. circuits.md",
+    "Math/Units",
+    "Math/7 - Vectors",
+    "Math/6 - Matices and their inverses",
+    "Math/5 - Polar coordinates",
+    "Math/4 - Rational functions and graphs",
+    "Math/3 - Roots of polynomials",
+    "Math/2 - Series and induction",
     "Physics/Images/Pasted image 20230901221543.png",
-    "Physics/3 - Dynamics/Momentum.md",
-    "Physics/3 - Dynamics/01-Sep-2023.md",
-    "Physics/2 - Kinematics/Work Done by Forces.md",
-    "Physics/2 - Kinematics/SUVAT equations.md",
-    "Physics/2 - Kinematics/Projectiles.md",
-    "Physics/2 - Kinematics/Projectiles & SUVAT.md",
-    "Physics/1 - Physical quantities and units/SI units.md",
-    "Physics/2 - Kinematics/Deriving SUVAT.md",
-    "Physics/1 - Physical quantities and units/Scalar and vector quantites.md",
-    "Physics/1 - Physical quantities and units/Scalar & vector.md",
-    "Physics/1 - Physical quantities and units/Quantitative vs Qualitative.md",
-    "Physics/1 - Physical quantities and units/Random and systematic errors.md",
-    "Physics/Syllabus",
-    "Physics/Images",
-    "Physics/3 - Dynamics",
-    "Physics/2 - Kinematics",
-    "Physics/1 - Physical quantities and units",
-    "Physics",
-    "Math/1 - Matrix",
-    "Math",
-    "obsidian-notes/Math/1 - Matrix",
-    "obsidian-notes/Math",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
     "Physics/Pasted image 20230901190257.png",
     "Physics/Pasted image 20230901190241.png",

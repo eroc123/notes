@@ -6,39 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Physics -tag:#syllabus -tag:#home  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#syllabus  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#home  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.48961937716263,
-  "repelStrength": 6.33217993079585,
+  "centerStrength": 0.534602076124567,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.747853782765016,
-  "close": false
+  "scale": 0.13971373740697715,
+  "close": true
 }

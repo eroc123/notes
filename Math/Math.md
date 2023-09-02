@@ -2,19 +2,15 @@
 tags:
   - home
 ---
-%% Begin Waypoint %%
-- **1 - Matrix**
-	- [[Linear functions]]
-	- [[Linear transformations]]
-	- [[Matrices and transformations]]
-	- [[Matrix for linear transformations]]
-	- [[Matrix fundamentals]]
-	- [[Operations on Matrices]]
-	- [[Special Matricies]]
-	- [[Unit vectors]]
 
-%% End Waypoint %%
-
+- **Units**
+	- [[1 - Matrices and transformations]]
+	- [[2 - Series and induction]]
+	- [[3 - Roots of polynomials]]
+	- [[4 - Rational functions and graphs]]
+	- [[5 - Polar coordinates]]
+	- [[6 - Matices and their inverses]]
+	- [[7 - Vectors]]
 
 
 
