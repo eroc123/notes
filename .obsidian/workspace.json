@@ -14,17 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f03bee446efcbd6c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +155,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f03bee446efcbd6c",
+  "active": "6f0c13ce202adc67",
   "lastOpenFiles": [
     "README.md",
     "Physics/Syllabus/8. Superposition.md",
