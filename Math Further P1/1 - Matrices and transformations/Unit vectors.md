@@ -1,6 +1,6 @@
 #math
 
-Unit vectors are vectors that have the length or magnitude of 1
+Unit vectors are [[Scalar & vector|vectors]] that have the length or magnitude of 1
 
 In two dimensions, unit vectors are $i=\begin{pmatrix}1\\0\end{pmatrix}$ and $j = \begin{pmatrix} 0 \\1 \end{pmatrix}$
 
