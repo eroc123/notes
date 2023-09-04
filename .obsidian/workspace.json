@@ -23,8 +23,12 @@
             "id": "66ce7c82be373a59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ComSci/ComSci.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ComSci/ComSci.md"
+              }
             }
           },
           {
@@ -164,12 +172,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0eea763c581ce5a5",
+  "active": "66ce7c82be373a59",
   "lastOpenFiles": [
+    "Physics/3 - Dynamics/Momentum.md",
     "ComSci/ComSci.md",
     "Newton's second law.md",
     "Physics/1 - Physical quantities and units/Random and systematic errors.md",
@@ -178,7 +186,6 @@
     "Physics/1 - Physical quantities and units/Decimal Places.md",
     "Physics/3 - Dynamics/Explosions.md",
     "Physics/3 - Dynamics/Change in mass.md",
-    "Physics/3 - Dynamics/Momentum.md",
     "TODO.md",
     "Untitled.md",
     "Physics/3 - Dynamics/Rebound impact.md",
