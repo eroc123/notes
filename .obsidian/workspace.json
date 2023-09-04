@@ -11,14 +11,11 @@
             "id": "697eb216cebcb647",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Physics/Units/3 - Dynamics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
+                "file": "Physics/Units/3 - Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
+                "file": "Physics/Units/3 - Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md"
+                "file": "Physics/Units/3 - Dynamics.md"
               }
             }
           },
@@ -177,8 +174,8 @@
   },
   "active": "697eb216cebcb647",
   "lastOpenFiles": [
-    "Physics/Units/3 - Dynamics.md",
     "Untitled.canvas",
+    "Physics/Units/3 - Dynamics.md",
     "04-Sep-2023.md",
     "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/Units/2 - Kinematics.md",
