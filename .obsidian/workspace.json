@@ -11,12 +11,8 @@
             "id": "d42dc489519d0ee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ComSci/ComSci.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66ce7c82be373a59",
+  "active": "d42dc489519d0ee7",
   "lastOpenFiles": [
-    "Physics/3 - Dynamics/Momentum.md",
     "ComSci/ComSci.md",
+    "Physics/3 - Dynamics/Momentum.md",
     "Newton's second law.md",
     "Physics/1 - Physical quantities and units/Random and systematic errors.md",
     "Physics/1 - Physical quantities and units/Perpendicular component of a vector.md",
