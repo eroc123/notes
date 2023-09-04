@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "file": "Computer Science/1.1 Information representation/Binary-coded Decimal (BCD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a97bae36a546036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md"
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md"
               }
             }
           }
@@ -159,8 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e7a1abee3139d2d",
+  "active": "6a97bae36a546036",
   "lastOpenFiles": [
+    "Computer Science/1.1 Information representation/Number prefixes.md",
+    "Computer Science/1.1 Information representation/Conversions between number systems.md",
+    "Computer Science/1.1 Information representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1.1 Information representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+    "Computer Science/1.1 Information representation/One's and Two's complement.md",
+    "Computer Science/Syllabus.md",
     "obsidian-notes/TODO.md",
     "obsidian-notes/Untitled.md",
     "obsidian-notes/Quick Notes/Quick Notes.md",
@@ -182,13 +202,6 @@
     "obsidian-notes/Physics/3 - Dynamics/Types of collision.md",
     "obsidian-notes/Physics/3 - Dynamics/Rebound impact.md",
     "obsidian-notes/Physics/3 - Dynamics/Newton's second law.md",
-    "obsidian-notes/Physics/3 - Dynamics/Momentum.md",
-    "obsidian-notes/Physics/3 - Dynamics/Impact at an angle.md",
-    "obsidian-notes/Physics/1 - Physical quantities and units/Physical Quantities.md",
-    "obsidian-notes/Physics/3 - Dynamics/Force as change of momentum.md",
-    "obsidian-notes/Physics/3 - Dynamics/Explosions.md",
-    "obsidian-notes/Physics/3 - Dynamics/Change in mass.md",
-    "obsidian-notes/Physics/3 - Dynamics/01-Sep-2023.md",
     "obsidian-notes/Physics/Units",
     "obsidian-notes/Physics/Images",
     "obsidian-notes/Physics/3 - Dynamics",

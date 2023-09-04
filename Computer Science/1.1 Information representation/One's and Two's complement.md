@@ -28,5 +28,6 @@ To convert to one's complement, simply flip each bit of a binary number (1's tur
 
 For example, an 8 bit binary number in two's complement format can represent numbers ranging from -127 to +127
 
+Converting to two's complement can allow for easy [[Binary addition and subtraction|addition and subtraction]] of binary numbers
 
 

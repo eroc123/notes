@@ -4,7 +4,7 @@ tags:
   - numbers binary hexadecimal denary conversions 
 ---
 
-## Binary to Denary
+## [[Binary, Denary and Hexadecimal|Binary]] to [[Binary, Denary and Hexadecimal|Denary]]
 
 Simply multiply each digit in each column by the place value of the column and add together all the values. 
 e.g.
