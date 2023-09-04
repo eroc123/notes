@@ -1,3 +1,8 @@
+---
+Date: 2023-09-04
+tags:
+  - numbers binary 
+---
 **To add numbers in binary, simply add together each digit and carry if necessary.**
 
 e.g. adding 52 to 61

@@ -4,9 +4,6 @@ tags:
   - binary
   - numbers
 ---
-
-
-
 **One** and **two's complement** allows binary numbers to be expressed as negative numbers.
 
 ## One's complement

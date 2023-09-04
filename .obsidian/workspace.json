@@ -1,43 +1,100 @@
 {
   "main": {
-    "id": "259a42139ae632e0",
+    "id": "e24fac43f43cf730",
     "type": "split",
     "children": [
       {
-        "id": "a982d778410ed714",
+        "id": "c5195661d387274b",
         "type": "tabs",
         "children": [
           {
-            "id": "b49849d115a3d434",
+            "id": "8d9da06822ea45ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "dc56c9d049a99b48",
+            "id": "6a97bae36a546036",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454e17011386b1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad1cb060d1b4be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd217cc1c26c3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021d5f0aebc495a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cbd79315ae379c61",
+    "id": "edfc9e9916321f06",
     "type": "split",
     "children": [
       {
-        "id": "446ed1a140cb7740",
+        "id": "649927bfb64798c9",
         "type": "tabs",
         "children": [
           {
-            "id": "0c11a0a1cd5c12b9",
+            "id": "0e7a1abee3139d2d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +104,7 @@
             }
           },
           {
-            "id": "833fa471fd624343",
+            "id": "73700c4788c65541",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +119,7 @@
             }
           },
           {
-            "id": "cd83eda0d078390a",
+            "id": "15c9938e09bcdaa4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +133,20 @@
     "width": 300
   },
   "right": {
-    "id": "9439ba2c6ec14d1b",
+    "id": "df634af02e559647",
     "type": "split",
     "children": [
       {
-        "id": "4ef16cc19d846119",
+        "id": "a90bc1a5aac41a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "424b841ba348b1d2",
+            "id": "0740580fae090a43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,18 +158,19 @@
             }
           },
           {
-            "id": "7dd64de8393966b1",
+            "id": "86e4665ab68e5af5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "564d6191f84b3145",
+            "id": "cc79d69a759cdb9d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,35 +181,20 @@
             }
           },
           {
-            "id": "5e58a2a25291be8e",
+            "id": "cfb5226be9132d84",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "bce85161d6625154",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d3142174c58f14f",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,48 +203,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b49849d115a3d434",
+  "active": "dbd217cc1c26c3eb",
   "lastOpenFiles": [
-    "Computer Science/1.1 Information representation/Conversions between number systems.md",
-    "Computer Science/1.1 Information representation/Binary, Denary and Hexadecimal.md",
-    "Computer Science/1.1 Information representation/Number prefixes.md",
-    "Computer Science/1.1 Information representation/One's and Two's complement.md",
-    "ComSci/1 - Information Representation/Usage of number systems.md",
+    "Computer Science/Syllabus.md",
+    "conflict-files-obsidian-git.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
+    "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
+    "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
+    "Math Further P1/1 - Matrices and transformations/Linear functions.md",
+    "Math Further P1/1 - Matrices and transformations/Linear transformations.md",
+    "ComSci/ComSci.md",
     "ComSci/1 - Information Representation/Number systems.md",
     "ComSci/1 - Information Representation/Decimal prefixes.md",
     "ComSci/1 - Information Representation/Conversion between number systems.md",
-    "ComSci/1 - Information Representation/Character representation.md",
-    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
-    "Computer Science/Syllabus.md",
-    "Untitled.md",
-    "TODO.md",
-    "Quick Notes/Quick Notes.md",
+    "ComSci/1 - Information Representation/Binary addition and subtraction.md",
+    "Math Further P1/Units/3 - Roots of polynomials.md",
+    "Math Further P1/Units/6 - Matices and their inverses.md",
+    "Math Further P1/Units/7 - Vectors.md",
+    "Math Further P1/Units/5 - Polar coordinates.md",
+    "Math Further P1/1 - Matrices and transformations/Unit vectors.md",
+    "Math Further P1/Units/4 - Rational functions and graphs.md",
+    "Math Further P1/Units/2 - Series and induction.md",
+    "Math Further P1/Units",
+    "Math Further P1/1 - Matrices and transformations",
+    "Math Further P1",
     "Quick Notes",
-    "Physics/Units/9 - Electricity.md",
-    "Physics/Units/8 - Superposition.md",
-    "Physics/Units/7 - Waves.md",
-    "Physics/Units/6 - Deformation of solids.md",
-    "Physics/Units/5 - Work, energy and power.md",
-    "Physics/Units/4 - Forces, density and pressure.md",
-    "Physics/Units/3 - Dynamics.md",
-    "Physics/Units/2 - Kinematics.md",
-    "Physics/Units/13 - Gravitational fields.md",
-    "Physics/Units/12 - Motion in a circle.md",
-    "Physics/Units/11 - Particle physics.md",
-    "Physics/Units/10 - D.C. circuits.md",
-    "Physics/Units",
     "Physics/Images/Pasted image 20230901221543.png",
+    "Physics/Units",
     "Physics/Images",
     "Physics/3 - Dynamics",
     "Physics/2 - Kinematics",
     "Physics/1 - Physical quantities and units",
-    "Physics",
-    "Math Further P1/Units",
-    "Math Further P1/1 - Matrices and transformations",
-    "Math Further P1",
-    "Pasted image 20230904193556.png"
+    "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
+    "Pasted image 20230904193556.png",
+    "Untitled.canvas"
   ]
 }
