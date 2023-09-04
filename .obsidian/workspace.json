@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
+                "file": "Computer Science/1.1 Information representation/Conversions between number systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
+                "file": "Computer Science/1.1 Information representation/Conversions between number systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
+                "file": "Computer Science/1.1 Information representation/Conversions between number systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md"
+                "file": "Computer Science/1.1 Information representation/Conversions between number systems.md"
               }
             }
           },
@@ -165,9 +165,16 @@
   },
   "active": "b49849d115a3d434",
   "lastOpenFiles": [
-    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
-    "ComSci/1 - Information Representation/Number systems.md",
     "Computer Science/1.1 Information representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1.1 Information representation/Conversions between number systems.md",
+    "Computer Science/1.1 Information representation/Number prefixes.md",
+    "Computer Science/1.1 Information representation/One's and Two's complement.md",
+    "ComSci/1 - Information Representation/Usage of number systems.md",
+    "ComSci/1 - Information Representation/Number systems.md",
+    "ComSci/1 - Information Representation/Decimal prefixes.md",
+    "ComSci/1 - Information Representation/Conversion between number systems.md",
+    "ComSci/1 - Information Representation/Character representation.md",
+    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
     "Computer Science/Syllabus.md",
     "Untitled.md",
     "TODO.md",
@@ -185,16 +192,9 @@
     "Physics/Units/12 - Motion in a circle.md",
     "Physics/Units/11 - Particle physics.md",
     "Physics/Units/10 - D.C. circuits.md",
-    "Physics/Units/1 - Physical quantities and units.md",
     "Physics/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "Physics/Images",
-    "Physics/3 - Dynamics/Types of collision.md",
-    "Physics/3 - Dynamics/Rebound impact.md",
-    "Physics/3 - Dynamics/Newton's second law.md",
-    "Physics/3 - Dynamics/Momentum.md",
-    "Physics/3 - Dynamics/Impact at an angle.md",
-    "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/3 - Dynamics",
     "Physics/2 - Kinematics",
     "Physics/1 - Physical quantities and units",
