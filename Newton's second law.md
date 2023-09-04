@@ -4,3 +4,4 @@ However, considering an object with mass m, with a force F acting on it. This ca
 
 So, the formula becomes $$F = {m_u - m_v \over t}$$
 
+When written as $$F = {m(u-v) \over t}$$
