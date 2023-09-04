@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "47e7ac7016a2f3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -154,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc56c9d049a99b48",
+  "active": "47e7ac7016a2f3a3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Computer Science/Syllabus.md",
     "Binary, Denary and Hexadecimal.md",
     "Computer Science/1.1 Information representation/Conversions between number systems.md",
@@ -182,7 +200,6 @@
     "Physics/Units/2 - Kinematics.md",
     "Physics/Units/13 - Gravitational fields.md",
     "Physics/Units/12 - Motion in a circle.md",
-    "Physics/Units/11 - Particle physics.md",
     "Physics/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "Physics/Images",
