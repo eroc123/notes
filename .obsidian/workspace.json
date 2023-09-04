@@ -23,12 +23,8 @@
             "id": "66ce7c82be373a59",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ComSci/ComSci.md",
-                "staged": false,
-                "hash": "51ce29f987adac439ebf2f235d173cee0fb36af4"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
