@@ -3,8 +3,8 @@
 1. **Momentum and Newton’s laws of motion**
 	1. understand that mass is the property of an object that resists change in motion
 	2. recall F = ma and solve problems using it, understanding that acceleration and resultant force are always in the same direction
-	3. define and use linear momentum as the product of mass and velocity
-	4. define and use force as rate of change of momentum
+	3. define and use[[Momentum| linear momentum]] as the product of mass and velocity
+	4. define and use [[Force as change of momentum|force as rate of change of momentum]]
 	5. state and apply each of Newton’s laws of motion
 	6. describe and use the concept of weight as the effect of a gravitational field on a mass and recall that the weight of an object is equal to the product of its mass and the acceleration of free fall
 2. **Non-uniform motion**
@@ -13,6 +13,6 @@
 	3. understand that objects moving against a resistive force may reach a terminal (constant) velocity
 3. **Linear momentum and its conservation**
 	1. state the principle of conservation of momentum
-	2. apply the principle of conservation of momentum to solve simple problems, including elastic and inelastic interactions between objects in both one and two dimensions (knowledge of the concept of coefficient of restitution is not required)
-	3. recall that, for a perfectly elastic collision, the relative speed of approach is equal to the relative speed of separation
+	2. apply the principle of conservation of momentum to solve simple problems, including [[Types of collision|elastic and inelastic interactions]] between objects in both one and two dimensions (knowledge of the concept of coefficient of restitution is not required)c
+	3. recall that, for a perfectly [[Types of collision|elastic collision]], the relative speed of approach is equal to the relative speed of separation
 	4. understand that, while momentum of a system is always conserved in interactions between objects, some change in kinetic energy may take place

@@ -1,20 +1,17 @@
 #physics 
 
-momentum is always conserved
+An object's momentum depends on the velocity at which it is moving, as well as the mass of the object
 
-when two or more objects interact, the total momentum remains constant provided that there is no external resultant force
+therefore, $Momentum = mass \times velocity$ 
+$p = m\times v$
 
-#### Elastic
+[[Derived units|Unit for momentum]] - $p(kg ms^{-1}) = m (kg) \times (ms^{-1})$
+Note since velocity is a [[Scalar and vector quantites|vector quantity]], this makes momentum a [[Scalar and vector quantites|vector quantity]] too.
 
-- Momentum conserved, kinetic energy conserved, total energy conserved
-	- This is usually not the case as there will always be energy loss into the environment as heat, sound, etc.
+### Conservation of momentum
 
-#### Inelastic
+When objects collide, assuming no external forces, momentum is always conserved
 
-- Momentum conserved, kinetic energy **not** conserved, total energy conserved
-	- Although total energy is conserved, kinetic energy is not, therefore some of the energy is lost into the environment
+However, in almost every situation, collision will always have external forces.
 
-$K.E. = {1 \over 2} mv^2$
-
-The rate of change of momentum of an object is proportional on the resultant force on it. The resultant force is proportional to the change in momentum per second.
 
