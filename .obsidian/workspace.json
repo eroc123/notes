@@ -23,11 +23,11 @@
             "id": "66ce7c82be373a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "ComSci/ComSci.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "hash": "51ce29f987adac439ebf2f235d173cee0fb36af4"
               }
             }
           }
@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ComSci/ComSci.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +182,7 @@
   },
   "active": "66ce7c82be373a59",
   "lastOpenFiles": [
+    "ComSci/ComSci.md",
     "Newton's second law.md",
     "Physics/1 - Physical quantities and units/Random and systematic errors.md",
     "Physics/1 - Physical quantities and units/Perpendicular component of a vector.md",
@@ -213,7 +209,6 @@
     "Physics/2 - Kinematics/Work Done by Forces.md",
     "Physics/Units/1 - Physical quantities and units.md",
     "Physics/1 - Physical quantities and units/Measurement.md",
-    "Physics/2 - Kinematics/Deriving SUVAT.md",
     "Quick Notes/Untitled",
     "Quick Notes",
     "ComSci/Untitled",
