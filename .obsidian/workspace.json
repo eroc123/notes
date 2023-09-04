@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e24fac43f43cf730",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5195661d387274b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9da06822ea45ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021d5f0aebc495a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Binary-coded Decimal (BCD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edfc9e9916321f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "649927bfb64798c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7a1abee3139d2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73700c4788c65541",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15c9938e09bcdaa4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df634af02e559647",
+    "type": "split",
+    "children": [
+      {
+        "id": "a90bc1a5aac41a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0740580fae090a43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e4665ab68e5af5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc79d69a759cdb9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfb5226be9132d84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Binary addition and subtraction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0e7a1abee3139d2d",
+  "lastOpenFiles": [
+    "obsidian-notes/TODO.md",
+    "obsidian-notes/Untitled.md",
+    "obsidian-notes/Quick Notes/Quick Notes.md",
+    "obsidian-notes/Quick Notes",
+    "obsidian-notes/Physics/Units/9 - Electricity.md",
+    "obsidian-notes/Physics/Units/6 - Deformation of solids.md",
+    "obsidian-notes/Physics/Units/7 - Waves.md",
+    "obsidian-notes/Physics/Units/8 - Superposition.md",
+    "obsidian-notes/Physics/Units/4 - Forces, density and pressure.md",
+    "obsidian-notes/Physics/Units/5 - Work, energy and power.md",
+    "obsidian-notes/Physics/Units/3 - Dynamics.md",
+    "obsidian-notes/Physics/Units/2 - Kinematics.md",
+    "obsidian-notes/Physics/Units/13 - Gravitational fields.md",
+    "obsidian-notes/Physics/Units/12 - Motion in a circle.md",
+    "obsidian-notes/Physics/Units/11 - Particle physics.md",
+    "obsidian-notes/Physics/Units/10 - D.C. circuits.md",
+    "obsidian-notes/Physics/Units/1 - Physical quantities and units.md",
+    "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
+    "obsidian-notes/Physics/3 - Dynamics/Types of collision.md",
+    "obsidian-notes/Physics/3 - Dynamics/Rebound impact.md",
+    "obsidian-notes/Physics/3 - Dynamics/Newton's second law.md",
+    "obsidian-notes/Physics/3 - Dynamics/Momentum.md",
+    "obsidian-notes/Physics/3 - Dynamics/Impact at an angle.md",
+    "obsidian-notes/Physics/1 - Physical quantities and units/Physical Quantities.md",
+    "obsidian-notes/Physics/3 - Dynamics/Force as change of momentum.md",
+    "obsidian-notes/Physics/3 - Dynamics/Explosions.md",
+    "obsidian-notes/Physics/3 - Dynamics/Change in mass.md",
+    "obsidian-notes/Physics/3 - Dynamics/01-Sep-2023.md",
+    "obsidian-notes/Physics/Units",
+    "obsidian-notes/Physics/Images",
+    "obsidian-notes/Physics/3 - Dynamics",
+    "obsidian-notes/Physics/1 - Physical quantities and units",
+    "obsidian-notes/Physics/2 - Kinematics",
+    "obsidian-notes/Physics",
+    "obsidian-notes/Math Further P1/Units",
+    "obsidian-notes/Math Further P1/1 - Matrices and transformations",
+    "obsidian-notes/Math Further P1",
+    "Pasted image 20230904193556.png",
+    "Untitled.canvas"
+  ]
+}
