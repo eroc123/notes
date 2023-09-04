@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComSci/1 - Information Representation/Number systems.md",
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComSci/1 - Information Representation/Number systems.md",
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComSci/1 - Information Representation/Number systems.md",
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComSci/1 - Information Representation/Number systems.md"
+                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +165,8 @@
   },
   "active": "b49849d115a3d434",
   "lastOpenFiles": [
+    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
+    "ComSci/1 - Information Representation/Number systems.md",
     "Computer Science/1.1 Information representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/Syllabus.md",
     "Untitled.md",
@@ -192,8 +195,6 @@
     "Physics/3 - Dynamics/Momentum.md",
     "Physics/3 - Dynamics/Impact at an angle.md",
     "Physics/3 - Dynamics/Force as change of momentum.md",
-    "Physics/3 - Dynamics/Explosions.md",
-    "Physics/3 - Dynamics/Change in mass.md",
     "Physics/3 - Dynamics",
     "Physics/2 - Kinematics",
     "Physics/1 - Physical quantities and units",
