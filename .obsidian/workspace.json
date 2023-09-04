@@ -11,28 +11,18 @@
             "id": "697eb216cebcb647",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adb67bb052928c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -186,9 +175,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "adb67bb052928c68",
+  "active": "697eb216cebcb647",
   "lastOpenFiles": [
     "Physics/Units/3 - Dynamics.md",
+    "Untitled.canvas",
+    "04-Sep-2023.md",
     "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/Units/2 - Kinematics.md",
     "Physics/Physics.md",
@@ -212,8 +203,6 @@
     "Math Further P1/Units/1 - Matrices and transformations.md",
     "ComSci/Untitled/Usage of number systems.md",
     "Math Further P1/Units/6 - Matices and their inverses.md",
-    "Physics/1 - Physical quantities and units/Scalar & vector.md",
-    "Math Further P1/1 - Matrices and transformations/Unit vectors.md",
     "Quick Notes/Untitled",
     "Quick Notes",
     "ComSci/Untitled",
@@ -233,7 +222,6 @@
     "Science IGCSE/images/image169.png",
     "Science IGCSE/images/image103.png",
     "Science IGCSE/images/image78.png",
-    "Science IGCSE/images/image63.png",
-    "Untitled.canvas"
+    "Science IGCSE/images/image63.png"
   ]
 }
