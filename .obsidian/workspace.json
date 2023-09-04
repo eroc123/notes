@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "454e17011386b1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.1 Information representation/Character representation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "021d5f0aebc495a4",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
+                "file": "Computer Science/1.1 Information representation/Character representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md",
+                "file": "Computer Science/1.1 Information representation/Character representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.1 Information representation/One's and Two's complement.md"
+                "file": "Computer Science/1.1 Information representation/Character representation.md"
               }
             }
           }
@@ -171,45 +183,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a97bae36a546036",
+  "active": "454e17011386b1ef",
   "lastOpenFiles": [
+    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
     "Computer Science/1.1 Information representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1.1 Information representation/Usage of number systems.md",
     "Computer Science/1.1 Information representation/One's and Two's complement.md",
-    "conflict-files-obsidian-git.md",
     "Computer Science/1.1 Information representation/Number prefixes.md",
+    "Computer Science/1.1 Information representation/Character representation.md",
     "Computer Science/1.1 Information representation/Conversions between number systems.md",
     "Computer Science/1.1 Information representation/Binary, Denary and Hexadecimal.md",
-    "Computer Science/1.1 Information representation/Binary addition and subtraction.md",
-    "Computer Science/Syllabus.md",
-    "obsidian-notes/TODO.md",
-    "obsidian-notes/Untitled.md",
-    "obsidian-notes/Quick Notes/Quick Notes.md",
-    "obsidian-notes/Quick Notes",
-    "obsidian-notes/Physics/Units/9 - Electricity.md",
-    "obsidian-notes/Physics/Units/6 - Deformation of solids.md",
-    "obsidian-notes/Physics/Units/7 - Waves.md",
-    "obsidian-notes/Physics/Units/8 - Superposition.md",
-    "obsidian-notes/Physics/Units/4 - Forces, density and pressure.md",
-    "obsidian-notes/Physics/Units/5 - Work, energy and power.md",
-    "obsidian-notes/Physics/Units/3 - Dynamics.md",
-    "obsidian-notes/Physics/Units/2 - Kinematics.md",
-    "obsidian-notes/Physics/Units/13 - Gravitational fields.md",
-    "obsidian-notes/Physics/Units/12 - Motion in a circle.md",
-    "obsidian-notes/Physics/Units/11 - Particle physics.md",
-    "obsidian-notes/Physics/Units/10 - D.C. circuits.md",
-    "obsidian-notes/Physics/Units/1 - Physical quantities and units.md",
+    "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
+    "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
+    "Math Further P1/1 - Matrices and transformations/Linear functions.md",
+    "Math Further P1/1 - Matrices and transformations/Linear transformations.md",
+    "ComSci/ComSci.md",
+    "ComSci/1 - Information Representation/Number systems.md",
+    "ComSci/1 - Information Representation/Decimal prefixes.md",
+    "ComSci/1 - Information Representation/Conversion between number systems.md",
+    "ComSci/1 - Information Representation/Binary addition and subtraction.md",
+    "conflict-files-obsidian-git.md",
+    "Math Further P1/Units/3 - Roots of polynomials.md",
+    "Math Further P1/Units/6 - Matices and their inverses.md",
+    "Math Further P1/Units/7 - Vectors.md",
+    "Math Further P1/Units/5 - Polar coordinates.md",
+    "Math Further P1/1 - Matrices and transformations/Unit vectors.md",
+    "Math Further P1/Units/4 - Rational functions and graphs.md",
+    "Math Further P1/Units/2 - Series and induction.md",
+    "Math Further P1/1 - Matrices and transformations/Special Matricies.md",
+    "Math Further P1/Units",
+    "Math Further P1/1 - Matrices and transformations",
+    "Math Further P1",
+    "Quick Notes",
+    "Physics/Images/Pasted image 20230901221543.png",
+    "Physics/Units",
+    "Physics/Images",
+    "Physics/3 - Dynamics",
+    "Physics/2 - Kinematics",
+    "Physics/1 - Physical quantities and units",
+    "Physics",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
-    "obsidian-notes/Physics/3 - Dynamics/Types of collision.md",
-    "obsidian-notes/Physics/3 - Dynamics/Rebound impact.md",
-    "obsidian-notes/Physics/Units",
-    "obsidian-notes/Physics/Images",
-    "obsidian-notes/Physics/3 - Dynamics",
-    "obsidian-notes/Physics/1 - Physical quantities and units",
-    "obsidian-notes/Physics/2 - Kinematics",
-    "obsidian-notes/Physics",
-    "obsidian-notes/Math Further P1/Units",
-    "obsidian-notes/Math Further P1/1 - Matrices and transformations",
-    "obsidian-notes/Math Further P1",
     "Pasted image 20230904193556.png",
     "Untitled.canvas"
   ]

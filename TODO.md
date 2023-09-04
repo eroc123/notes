@@ -1,0 +1,11 @@
+
+- [ ] Write notes on [momentum](https://classroom.google.com/c/NjEwODY0Mjc2Mjkx/m/NjIwODA2OTg2NTcw/details?pli=1)
+- [ ] Pure Math p1 [homework](https://classroom.google.com/c/NjE3ODMxOTcyMDQ4/m/NTIzOTc1MzM1MDY3/details?pli=1)
+- [x] International Award logging
+	- [x] Sport: running
+	- [x] Skill: french - ask french teacher
+	- [x] Community service: orgainsationn
+- [ ] French homework
+- [ ] IPQ logging
+	- [ ] Research
+- [ ] 
