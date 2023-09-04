@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ComSci/ComSci.md"
+              }
             }
           },
           {
@@ -166,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42dc489519d0ee7",
+  "active": "66ce7c82be373a59",
   "lastOpenFiles": [
+    "ComSci/1 - Information Representation/Binary addition and subtraction.md",
     "ComSci/ComSci.md",
     "Physics/3 - Dynamics/Momentum.md",
     "Newton's second law.md",
@@ -194,7 +200,6 @@
     "Physics/2 - Kinematics/SUVAT equations.md",
     "Physics/2 - Kinematics/Work Done by Forces.md",
     "Physics/Units/1 - Physical quantities and units.md",
-    "Physics/1 - Physical quantities and units/Measurement.md",
     "Quick Notes/Untitled",
     "Quick Notes",
     "ComSci/Untitled",
