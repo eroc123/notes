@@ -12,7 +12,7 @@
 	2. describe and explain qualitatively the motion of objects in a uniform gravitational field with air resistance
 	3. understand that objects moving against a resistive force may reach a terminal (constant) velocity
 3. **Linear momentum and its conservation**
-	1. state the principle of conservation of momentum
+	1. state the principle of [[Momentum|conservation of momentum]]
 	2. apply the principle of conservation of momentum to solve simple problems, including [[Types of collision|elastic and inelastic interactions]] between objects in both one and two dimensions (knowledge of the concept of coefficient of restitution is not required)c
 	3. recall that, for a perfectly [[Types of collision|elastic collision]], the relative speed of approach is equal to the relative speed of separation
 	4. understand that, while momentum of a system is always conserved in interactions between objects, some change in kinetic energy may take place

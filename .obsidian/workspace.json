@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "change of momentum",
+                "query": "conserve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d42dc489519d0ee7",
+  "active": "f4a248617ff5fe3c",
   "lastOpenFiles": [
     "Physics/Physics.md",
     "Physics/Units/5 - Work, energy and power.md",
