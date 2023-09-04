@@ -128,9 +128,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4d3142174c58f14f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
