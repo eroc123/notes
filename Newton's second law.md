@@ -1,3 +1,6 @@
 
 $F = m \times a$
-However, considering an object with mass m, with a force F acting on it. This causes the object to have a change in velocity, therefo
+However, considering an object with mass m, with a force F acting on it. This causes the object to have a change in velocity, therefore a change in momentum
+
+So, the formula becomes $$F = {m_u - m_v \over t}$$
+
