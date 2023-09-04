@@ -1,6 +1,6 @@
 #physics 
 
-Since momentum is a vector, the sign of it shows the direction of the [[Momentum|momentum]]
+Since momentum is a [[vector|vector]], the sign of it shows the direction of the [[Momentum|momentum]]
 
 If a ball is heading towards a wall, and we take that direction as positive, when it bounces, the momentum will flip to negative, as the velocity will become negative as it rebound.
 
