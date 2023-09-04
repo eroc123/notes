@@ -1,2 +1,4 @@
-.obsidian/*
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
 .trash/*
