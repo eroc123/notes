@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ce46d86539ff486f",
+    "id": "daeaf30caf12c7ce",
     "type": "split",
     "children": [
       {
-        "id": "1169732c6b5f59e4",
+        "id": "11f5278517c998ce",
         "type": "tabs",
         "children": [
           {
-            "id": "697eb216cebcb647",
+            "id": "dc710db897491258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
+                "file": "ComSci/ComSci.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0dea3f2958a14c05",
+    "id": "8df4285502e2089b",
     "type": "split",
     "children": [
       {
-        "id": "103a97c03a2c4882",
+        "id": "ec731f9c72de1cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "a0756aba495c3e86",
+            "id": "68865e9f70e82691",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "f4a248617ff5fe3c",
+            "id": "7d1b0608cf462d4a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "change of momentum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "18fb2a06402eb5d7",
+            "id": "307f9cb6c974bdd1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ce6c6b553448bd34",
+    "id": "c210b95260b96e7e",
     "type": "split",
     "children": [
       {
-        "id": "28bbfc1f48ec2706",
+        "id": "e6f1d27250f2ead1",
         "type": "tabs",
         "children": [
           {
-            "id": "8298976c5df202a5",
+            "id": "1e5d1fcf41a8d087",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
+                "file": "ComSci/ComSci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "afd213090e4d70e9",
+            "id": "8226ed737245efc2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md",
+                "file": "ComSci/ComSci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ed375d928098cf47",
+            "id": "919142bd3f9bce3f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,41 +120,16 @@
             }
           },
           {
-            "id": "0eea763c581ce5a5",
+            "id": "c89dfec0695d4712",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Units/3 - Dynamics.md"
+                "file": "ComSci/ComSci.md"
               }
             }
-          },
-          {
-            "id": "3e7a17b1ff87adc6",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f0c13ce202adc67",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d0575cf3906f62e5",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,62 +138,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "697eb216cebcb647",
+  "active": "dc710db897491258",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled.md",
+    "TODO.md",
+    "obsidian-notes - Copy",
+    "Quick Notes/Quick Notes.md",
+    "Quick Notes",
+    "Physics/Units/9 - Electricity.md",
+    "Physics/Units/8 - Superposition.md",
+    "Physics/Units/7 - Waves.md",
+    "Physics/Units/6 - Deformation of solids.md",
+    "Physics/Units/5 - Work, energy and power.md",
+    "Physics/Units/4 - Forces, density and pressure.md",
     "Physics/Units/3 - Dynamics.md",
-    "04-Sep-2023.md",
-    "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/Units/2 - Kinematics.md",
-    "Physics/Physics.md",
-    "Physics/3 - Dynamics/Explosions.md",
+    "Physics/Units/13 - Gravitational fields.md",
+    "Physics/Units/12 - Motion in a circle.md",
+    "Physics/Units/11 - Particle physics.md",
+    "Physics/Units/10 - D.C. circuits.md",
+    "Physics/Units/1 - Physical quantities and units.md",
+    "Physics/Images/Pasted image 20230901221543.png",
     "Physics/3 - Dynamics/Types of collision.md",
-    "Physics/3 - Dynamics/Impact at an angle.md",
-    "Physics/2 - Kinematics/Projectiles & SUVAT.md",
-    "Physics/2 - Kinematics/SUVAT equations.md",
-    "Physics/2 - Kinematics/Work Done by Forces.md",
     "Physics/3 - Dynamics/Rebound impact.md",
     "Physics/3 - Dynamics/Momentum.md",
+    "Physics/3 - Dynamics/Impact at an angle.md",
+    "Physics/3 - Dynamics/Force as change of momentum.md",
+    "Physics/3 - Dynamics/Explosions.md",
     "Physics/3 - Dynamics/Change in mass.md",
-    "TODO.md",
-    "Physics/Units/1 - Physical quantities and units.md",
-    "Physics/1 - Physical quantities and units/Measurement.md",
-    "Physics/2 - Kinematics/Deriving SUVAT.md",
-    "Physics/2 - Kinematics/Projectiles.md",
-    "Untitled.md",
-    "Math Further P1/Math Further P1.md",
-    "Math Further P1/1 - Matrices and transformations/Linear functions.md",
-    "Math Further P1/Units/1 - Matrices and transformations.md",
-    "ComSci/Untitled/Usage of number systems.md",
-    "Math Further P1/Units/6 - Matices and their inverses.md",
-    "Quick Notes/Untitled",
-    "Quick Notes",
-    "ComSci/Untitled",
+    "Physics/3 - Dynamics/01-Sep-2023.md",
+    "Physics/2 - Kinematics/Work Done by Forces.md",
+    "Physics/Units",
+    "Physics/Images",
+    "Physics/3 - Dynamics",
+    "Physics/2 - Kinematics",
+    "Physics/1 - Physical quantities and units",
+    "Physics",
     "Math Further P1/Units",
-    "Math Further P1/7 - Vectors",
-    "Math Further P1/6 - Matices and their inverses",
-    "Math Further P1/5 - Polar coordinates",
-    "Math Further P1/4 - Rational functions and graphs",
-    "Math Further P1/3 - Roots of polynomials",
-    "Math Further P1/2 - Series and induction",
-    "Physics/Images/Pasted image 20230901221543.png",
-    "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
-    "Physics/Pasted image 20230901190257.png",
-    "Physics/Pasted image 20230901190241.png",
-    "Science IGCSE/images/image358.png",
-    "Science IGCSE/images/image362.png",
-    "Science IGCSE/images/image169.png",
-    "Science IGCSE/images/image103.png",
-    "Science IGCSE/images/image78.png",
-    "Science IGCSE/images/image63.png"
+    "Math Further P1/1 - Matrices and transformations",
+    "obsidian-notes/Physics/Images/Pasted image 20230901221543.png"
   ]
 }

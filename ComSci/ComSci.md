@@ -4,7 +4,7 @@ tags:
 ---
 
 %% Begin Waypoint %%
-- **Untitled**
+- **1 - Information Representation**
 	- [[Binary addition and subtraction]]
 	- [[Character representation]]
 	- [[Conversion between number systems]]
