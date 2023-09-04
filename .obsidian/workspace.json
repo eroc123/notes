@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "47e7ac7016a2f3a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47e7ac7016a2f3a3",
+  "active": "bce85161d6625154",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1 - Information representation/1.1 Data Representation",
+    "Computer Science/1 - Information representation",
     "conflict-files-obsidian-git.md",
     "Computer Science/Syllabus.md",
     "Binary, Denary and Hexadecimal.md",
@@ -192,14 +185,6 @@
     "Quick Notes",
     "Physics/Units/9 - Electricity.md",
     "Physics/Units/8 - Superposition.md",
-    "Physics/Units/7 - Waves.md",
-    "Physics/Units/6 - Deformation of solids.md",
-    "Physics/Units/5 - Work, energy and power.md",
-    "Physics/Units/4 - Forces, density and pressure.md",
-    "Physics/Units/3 - Dynamics.md",
-    "Physics/Units/2 - Kinematics.md",
-    "Physics/Units/13 - Gravitational fields.md",
-    "Physics/Units/12 - Motion in a circle.md",
     "Physics/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "Physics/Images",
@@ -208,8 +193,6 @@
     "Physics/1 - Physical quantities and units",
     "Physics",
     "Math Further P1/Units",
-    "Math Further P1/1 - Matrices and transformations",
-    "Math Further P1",
     "Pasted image 20230904193556.png"
   ]
 }
