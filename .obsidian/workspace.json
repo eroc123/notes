@@ -135,14 +135,6 @@
             }
           },
           {
-            "id": "3e7a17b1ff87adc6",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "6f0c13ce202adc67",
             "type": "leaf",
             "state": {
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,7 +168,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "66ce7c82be373a59",
+  "active": "0eea763c581ce5a5",
   "lastOpenFiles": [
     "ComSci/ComSci.md",
     "Newton's second law.md",
