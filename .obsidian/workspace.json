@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
+                "file": "Physics/3 - Dynamics/Impact at an angle.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
+                "file": "Physics/3 - Dynamics/Impact at an angle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md",
+                "file": "Physics/3 - Dynamics/Impact at an angle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/3 - Dynamics/Momentum.md"
+                "file": "Physics/3 - Dynamics/Impact at an angle.md"
               }
             }
           },
@@ -227,10 +227,12 @@
   },
   "active": "3207132d207cab28",
   "lastOpenFiles": [
+    "Physics/3 - Dynamics/Rebound impact.md",
+    "Physics/3 - Dynamics/Impact at an angle.md",
+    "Physics/3 - Dynamics/Momentum.md",
     "Physics/3 - Dynamics/01-Sep-2023.md",
     "Physics/3 - Dynamics/Change in mass.md",
     "Physics/3 - Dynamics/First Law.md",
-    "Physics/3 - Dynamics/Impact at an angle.md",
     "Physics/3 - Dynamics/Terminal Velocity.md",
     "Recording 20230905115838.webm",
     "Physics/3 - Dynamics/Newton's third law of motion.md",
@@ -264,8 +266,6 @@
     "Physics/1 - Physical quantities and units/Scalar and vector quantites.md",
     "Physics/1 - Physical quantities and units/Quantitative vs Qualitative.md",
     "Physics/1 - Physical quantities and units/Physical Quantities.md",
-    "Physics/Units/1 - Physical quantities and units.md",
-    "Computer Science/Syllabus.md",
     "Math Mechanics",
     "Physics/Images/Pasted image 20230901221543.png"
   ]
