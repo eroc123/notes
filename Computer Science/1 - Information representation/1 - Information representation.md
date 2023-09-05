@@ -16,7 +16,7 @@
 	2. Understand how and why a computer represents sound, including the effects of the sample rate and sample resolution
 	3. Understand how and why a computer represents an image, including the effects of the resolution and color depth
 3. Data storage and compression
-	1. Understand how data storage is measured
+	1. Understand how [[File size|data storage is measured]]
 	2. Calculate the file size of an image file and a sound file, using information given
 	3. Understand the purpose of and need for data compression
 	4. Understand how files are compressed using lossy and lossless compression methods
