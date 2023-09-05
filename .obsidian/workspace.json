@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data compression.md",
+                "file": "Lossy vs lossless.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data compression.md",
+                "file": "Lossy vs lossless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data compression.md",
+                "file": "Lossy vs lossless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data compression.md"
+                "file": "Lossy vs lossless.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "1c69c2d2a127ec22",
   "lastOpenFiles": [
-    "Computer Science/1 - Information representation/1 - Information representation.md",
     "Data compression.md",
+    "Computer Science/1 - Information representation/1 - Information representation.md",
     "Lossy vs lossless.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/Syllabus.md",
