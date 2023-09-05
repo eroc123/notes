@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md"
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "5554813c555ce190",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
@@ -190,9 +193,6 @@
     "Geography A level/Coasts",
     "Geography A level",
     "Computer Science/Images/Pasted image 20230904193556.png",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",

@@ -1,8 +1,8 @@
 ---
 Date: 2023-09-04
-tags:
-  - numbers
+tags: []
 ---
+
 |Decimal prefixes|Value|Binary prefixes|Value|
 |---|---|---|---|
 |Kilo|$10^3$|Kibi|$2^{10}$|
