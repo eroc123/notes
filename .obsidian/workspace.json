@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "third",
+                "query": "Newton second",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "54f89da09bffe796",
+  "active": "833fa471fd624343",
   "lastOpenFiles": [
     "Physics/3 - Dynamics/Third Law.md",
     "Physics/3 - Dynamics/Impact at an angle.md",
