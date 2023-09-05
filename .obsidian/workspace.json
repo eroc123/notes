@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "4202703c0072250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton's second Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f649209c589a30c7",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+                "file": "Newton's second Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+                "file": "Newton's second Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md"
+                "file": "Newton's second Law.md"
               }
             }
           },
@@ -201,8 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b5e0edf62127110",
+  "active": "4202703c0072250b",
   "lastOpenFiles": [
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+    "Newton's second Law.md",
     "First Law.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
@@ -216,7 +229,6 @@
     "Geography A level",
     "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
     "Computer Science/1 - Information representation/Images",
-    "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
     "Math Mechanics/Math Mechanics.md",
     "Physics/Units/3 - Dynamics.md",
     "Physics/Units/4 - Forces, density and pressure.md",
@@ -241,7 +253,6 @@
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation",
     "Physics/Images/Pasted image 20230901221543.png"
   ]
