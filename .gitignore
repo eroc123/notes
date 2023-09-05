@@ -4,4 +4,7 @@
 ./.obsidian/workspace.json
 ./.obsidian/appearance.json
 ./.obsidian
+./.obsidian/*
+.\.obsidian\
+.\.obsidian
 .trash/*
