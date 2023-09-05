@@ -41,7 +41,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Law.md",
+                "file": "Physics/Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796969c4681ea413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/3 - Dynamics/Terminal Velocity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa7aa3a82b111147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Law.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First Law.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First Law.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -195,11 +219,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7755084cf4bd41f",
+  "active": "fa7aa3a82b111147",
   "lastOpenFiles": [
+    "Physics/3 - Dynamics/Terminal Velocity.md",
+    "Physics/3 - Dynamics/Third Law.md",
+    "conflict-files-obsidian-git.md",
     "Physics/Physics.md",
     "First Law.md",
-    "conflict-files-obsidian-git.md",
+    "Physics/3 - Dynamics/Newton's third law of motion.md",
+    "Physics/3 - Dynamics/First Law.md",
     "Newton's second Law.md",
     "Physics/3 - Dynamics/Newton's second law.md",
     "Physics/3 - Dynamics/Momentum.md",
@@ -229,16 +257,12 @@
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images",
     "Computer Science/1 - Information representation/Images",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs",
     "Geography A level/Coasts",
-    "Computer Science/Syllabus.md",
     "Computer Science/1 - Information representation/1.1 Data Representation",
-    "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
     "Math Further P1/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
