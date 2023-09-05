@@ -13,5 +13,5 @@ The viscosity of the fluid - thicker fluid lowers the terminal velocity
 
 ### Car Design
 
-For a given power of an engine, a streamlined car will hi
+For a given power of an engine, a streamlined car will have a higher speed than a non-streamlined car.
 
