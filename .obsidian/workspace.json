@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a918e1d722f5898d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitmap image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossy vs lossless.md",
+                "file": "Bitmap image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossy vs lossless.md",
+                "file": "Bitmap image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossy vs lossless.md"
+                "file": "Bitmap image.md"
               }
             }
           },
@@ -184,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c69c2d2a127ec22",
+  "active": "a918e1d722f5898d",
   "lastOpenFiles": [
+    "Lossy vs lossless.md",
+    "Bitmap image.md",
     "Data compression.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
-    "Lossy vs lossless.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/Syllabus.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
@@ -225,7 +238,6 @@
     "Computer Science",
     "TODO.md",
     "Physics/3 - Dynamics/Types of collision.md",
-    "Physics/3 - Dynamics/Rebound impact.md",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
     "Physics/Pasted image 20230901190257.png",
