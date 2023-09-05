@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
+                "file": "Lossy vs lossless.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
+                "file": "Lossy vs lossless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
+                "file": "Lossy vs lossless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1 - Information representation/1 - Information representation.md"
+                "file": "Lossy vs lossless.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "1c69c2d2a127ec22",
   "lastOpenFiles": [
-    "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
+    "Lossy vs lossless.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/Syllabus.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
@@ -225,7 +226,6 @@
     "Physics/3 - Dynamics/Types of collision.md",
     "Physics/3 - Dynamics/Rebound impact.md",
     "Physics/3 - Dynamics/Impact at an angle.md",
-    "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
     "Physics/Pasted image 20230901190257.png",
