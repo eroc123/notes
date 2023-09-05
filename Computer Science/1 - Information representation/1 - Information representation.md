@@ -28,7 +28,7 @@
 	- [[Binary, Denary and Hexadecimal]]
 	- [[Character representation]]
 	- [[Conversions between number systems]]
-	- [[Data measurement]]
+	- [[File size]]
 	- [[Number prefixes]]
 	- [[One's and Two's complement]]
 	- [[Usage of number systems]]
