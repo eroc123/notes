@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/Units/1 - Information representation.md",
+                "file": "Computer Science/Units/1 - Information representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1 - Information representation/Units/1 - Information representation.md",
+                "file": "Computer Science/Units/1 - Information representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1 - Information representation/Units/1 - Information representation.md",
+                "file": "Computer Science/Units/1 - Information representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1 - Information representation/Units/1 - Information representation.md"
+                "file": "Computer Science/Units/1 - Information representation.md"
               }
             }
           },
@@ -196,19 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0756aba495c3e86",
+  "active": "a918e1d722f5898d",
   "lastOpenFiles": [
-    "Computer Science/1 - Information representation/Units",
-    "Computer Science/1 - Information representation/Conversions between number systems.md",
-    "Computer Science/1 - Information representation/Binary addition and subtraction.md",
     "Computer Science/1 - Information representation/Bitmap image.md",
+    "Computer Science/1 - Information representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1 - Information representation/Binary addition and subtraction.md",
+    "Computer Science/Units/1 - Information representation.md",
+    "Computer Science/Units",
+    "Computer Science/1 - Information representation/Conversions between number systems.md",
     "Computer Science/1 - Information representation/Data compression.md",
     "Computer Science/1 - Information representation/Lossy vs lossless.md",
-    "Computer Science/1 - Information representation/Units/1 - Information representation.md",
     "Computer Science/1 - Information representation/File size.md",
     "Computer Science/Syllabus.md",
-    "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
-    "Computer Science/1 - Information representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/1 - Information representation/Character representation.md",
     "Physics/1 - Physical quantities and units/Magnitude.md",
     "Computer Science/1 - Information representation/Usage of number systems.md",
@@ -236,7 +236,6 @@
     "Computer Science/Images/Pasted image 20230904193556.png",
     "Computer Science/1 - Information representation",
     "Computer Science/Images",
-    "Computer Science",
     "TODO.md",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
