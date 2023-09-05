@@ -35,8 +35,12 @@
             "id": "a918e1d722f5898d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Units/1 - Information representation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Units/1 - Information representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Units/1 - Information representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Units/1 - Information representation.md"
+              }
             }
           },
           {
@@ -190,6 +198,7 @@
   },
   "active": "a918e1d722f5898d",
   "lastOpenFiles": [
+    "Computer Science/Computer Science.md",
     "Computer Science/Units/1 - Information representation.md",
     "Computer Science/1 - Information representation/Bitmap image.md",
     "Computer Science/1 - Information representation/Binary, Denary and Hexadecimal.md",
@@ -200,7 +209,6 @@
     "Computer Science/1 - Information representation/Data compression.md",
     "Computer Science/1 - Information representation/Lossy vs lossless.md",
     "Computer Science/1 - Information representation/File size.md",
-    "Computer Science/Syllabus.md",
     "Computer Science/1 - Information representation/Character representation.md",
     "Physics/1 - Physical quantities and units/Magnitude.md",
     "Computer Science/1 - Information representation/Usage of number systems.md",
