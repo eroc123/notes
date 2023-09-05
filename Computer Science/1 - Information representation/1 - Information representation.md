@@ -12,7 +12,14 @@
 	6. Perform a logical binary shift on a positive 8-bit binary integer and understand the effect this has on the positive binary integer
 	7. Use [[One's and Two's complement|two’s complement]] to represent positive and negative 8-bit binary integers
 2. Text, sound and images
-	1. 
+	1. Understand how and why a computer represents text and the use of character sets, including American standard code for information interchange (ASCII) and Unicode
+	2. Understand how and why a computer represents sound, including the effects of the sample rate and sample resolution
+	3. Understand how and why a computer represents an image, including the effects of the resolution and color depth
+3. Data storage and compression
+	1. Understand how data storage is measured
+	2. Calculate the file size of an image file and a sound file, using information given
+	3. Understand the purpose of and need for data compression
+	4. Understand how files are compressed using lossy and lossless compression methods
 
 **1 Information representation**
 	1.1 Data Representation 
