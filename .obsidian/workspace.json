@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/3 - Dynamics/Terminal Velocity.md",
+                "file": "Physics/3 - Dynamics/01-Sep-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/3 - Dynamics/Terminal Velocity.md",
+                "file": "Physics/3 - Dynamics/01-Sep-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/3 - Dynamics/Terminal Velocity.md",
+                "file": "Physics/3 - Dynamics/01-Sep-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/3 - Dynamics/Terminal Velocity.md"
+                "file": "Physics/3 - Dynamics/01-Sep-2023.md"
               }
             }
           },
@@ -227,14 +227,16 @@
   },
   "active": "3207132d207cab28",
   "lastOpenFiles": [
+    "Physics/3 - Dynamics/Change in mass.md",
+    "Physics/3 - Dynamics/First Law.md",
+    "Physics/3 - Dynamics/Impact at an angle.md",
+    "Physics/3 - Dynamics/Terminal Velocity.md",
     "Recording 20230905115838.webm",
     "Physics/3 - Dynamics/Newton's third law of motion.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
-    "Physics/3 - Dynamics/Terminal Velocity.md",
     "Physics/Newton's second Law.md",
     "Physics/Physics.md",
     "Physics/3 - Dynamics/Third Law.md",
-    "Physics/3 - Dynamics/First Law.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
@@ -265,8 +267,6 @@
     "Computer Science/Syllabus.md",
     "Math Mechanics",
     "Computer Science/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation",
     "Physics/Images/Pasted image 20230901221543.png"
   ]
 }
