@@ -1,70 +1,58 @@
 {
   "main": {
-    "id": "e24fac43f43cf730",
+    "id": "259a42139ae632e0",
     "type": "split",
     "children": [
       {
-        "id": "c5195661d387274b",
+        "id": "a982d778410ed714",
         "type": "tabs",
         "children": [
           {
-            "id": "8d9da06822ea45ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a97bae36a546036",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "454e17011386b1ef",
+            "id": "24a7cf746fb9558e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
+                "file": "Computer Science/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "983b653020010873",
+            "id": "bc20283876a550c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ad1cb060d1b4be4",
+            "id": "2b5e0edf62127110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "021d5f0aebc495a4",
+            "id": "f649209c589a30c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "First Law.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,15 +62,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "edfc9e9916321f06",
+    "id": "cbd79315ae379c61",
     "type": "split",
     "children": [
       {
-        "id": "649927bfb64798c9",
+        "id": "446ed1a140cb7740",
         "type": "tabs",
         "children": [
           {
-            "id": "0e7a1abee3139d2d",
+            "id": "0c11a0a1cd5c12b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,12 +80,12 @@
             }
           },
           {
-            "id": "73700c4788c65541",
+            "id": "833fa471fd624343",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "third",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,58 +95,59 @@
             }
           },
           {
-            "id": "15c9938e09bcdaa4",
+            "id": "cd83eda0d078390a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "df634af02e559647",
+    "id": "9439ba2c6ec14d1b",
     "type": "split",
     "children": [
       {
-        "id": "a90bc1a5aac41a4f",
+        "id": "4ef16cc19d846119",
         "type": "tabs",
         "children": [
           {
-            "id": "0740580fae090a43",
+            "id": "424b841ba348b1d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "First Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "86e4665ab68e5af5",
+            "id": "7dd64de8393966b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "First Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cc79d69a759cdb9d",
+            "id": "564d6191f84b3145",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,20 +158,38 @@
             }
           },
           {
-            "id": "cfb5226be9132d84",
+            "id": "5e58a2a25291be8e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "First Law.md"
               }
             }
+          },
+          {
+            "id": "bce85161d6625154",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d3142174c58f14f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,57 +198,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "983b653020010873",
+  "active": "f649209c589a30c7",
   "lastOpenFiles": [
-    "Computer Science/1 - Information representation/1 - Information representation.md",
-    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
-    "conflict-files-obsidian-git.md",
-    "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
-    "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
-    "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
-    "Math Mechanics/3 - Forces and Newton's laws of motion",
-    "Math Mechanics/Math Mechanics.md",
-    "Math Mechanics",
-    "Computer Science/Images/Pasted image 20230904193556.png",
-    "Computer Science/Images",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
-    "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
-    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images/Pasted image 20230905084344.png",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images/Pasted image 20230905093926.png",
-    "Pasted image 20230905093854.png.md",
-    "Pasted image 20230905093848.png",
-    "Pasted image 20230905093851.png",
-    "Pasted image 20230905093854.png",
-    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Untitled.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
-    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images",
-    "Computer Science/1 - Information representation/Images",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images/Pasted image 20230905084344.png",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs",
     "Geography A level/Coasts",
+    "Geography A level",
+    "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
+    "Computer Science/1 - Information representation/Images",
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+    "First Law.md",
+    "Math Mechanics/Math Mechanics.md",
+    "Physics/Units/3 - Dynamics.md",
+    "Physics/Units/4 - Forces, density and pressure.md",
+    "Physics/Physics.md",
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
+    "Computer Science/1 - Information representation/1 - Information representation.md",
+    "Computer Science/Images",
+    "Computer Science/Images/Pasted image 20230904193556.png",
+    "Physics/1 - Physical quantities and units/Perpendicular component of a vector.md",
+    "Math Mechanics/3 - Forces and Newton's laws of motion",
+    "Physics/1 - Physical quantities and units/Scalar & vector.md",
+    "Physics/1 - Physical quantities and units/Scalar and vector quantites.md",
+    "Physics/1 - Physical quantities and units/Quantitative vs Qualitative.md",
+    "Physics/1 - Physical quantities and units/Physical Quantities.md",
+    "Physics/Units/1 - Physical quantities and units.md",
     "Computer Science/Syllabus.md",
+    "Math Mechanics",
+    "Computer Science/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation",
-    "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
-    "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
-    "Math Further P1/1 - Matrices and transformations/Linear functions.md",
-    "Math Further P1/1 - Matrices and transformations/Linear transformations.md",
-    "ComSci/ComSci.md",
-    "ComSci/1 - Information Representation/Number systems.md",
-    "Math Further P1/Units",
-    "Physics/Images/Pasted image 20230901221543.png",
-    "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
-    "Untitled.canvas"
+    "Physics/Images/Pasted image 20230901221543.png"
   ]
 }
