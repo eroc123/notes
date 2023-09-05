@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Law.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First Law.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First Law.md"
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md"
               }
             }
           },
@@ -201,8 +201,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f649209c589a30c7",
+  "active": "2b5e0edf62127110",
   "lastOpenFiles": [
+    "First Law.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
@@ -216,7 +217,6 @@
     "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
     "Computer Science/1 - Information representation/Images",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
-    "First Law.md",
     "Math Mechanics/Math Mechanics.md",
     "Physics/Units/3 - Dynamics.md",
     "Physics/Units/4 - Forces, density and pressure.md",
