@@ -14,7 +14,7 @@
 2. Text, sound and images
 	1. Understand how and why a computer [[Character representation|represents text]] and the use of character sets, including American standard code for information interchange (ASCII) and Unicode
 	2. Understand how and why a computer represents sound, including the effects of the sample rate and sample resolution
-	3. Understand how and why a computer represents an image, including the effects of the resolution and color depth
+	3. Understand how and why a computer [[Bitmap image|represents an image]], including the effects of the resolution and color depth
 3. Data storage and compression
 	1. Understand how [[File size|data storage is measured]]
 	2. Calculate the [[File size|file size]] of an image file and a sound file, using information given

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Units/1 - Information representation.md",
+                "file": "Computer Science/1 - Information representation/Bitmap image.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Units/1 - Information representation.md",
+                "file": "Computer Science/1 - Information representation/Bitmap image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Units/1 - Information representation.md",
+                "file": "Computer Science/1 - Information representation/Bitmap image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Units/1 - Information representation.md"
+                "file": "Computer Science/1 - Information representation/Bitmap image.md"
               }
             }
           },
@@ -198,11 +198,11 @@
   },
   "active": "a918e1d722f5898d",
   "lastOpenFiles": [
+    "Computer Science/Units/1 - Information representation.md",
     "Computer Science/1 - Information representation/Bitmap image.md",
     "Computer Science/1 - Information representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
     "Computer Science/1 - Information representation/Binary addition and subtraction.md",
-    "Computer Science/Units/1 - Information representation.md",
     "Computer Science/Units",
     "Computer Science/1 - Information representation/Conversions between number systems.md",
     "Computer Science/1 - Information representation/Data compression.md",
