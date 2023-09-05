@@ -11,24 +11,16 @@
             "id": "8d9da06822ea45ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6a97bae36a546036",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
+                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd217cc1c26c3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,16 +51,12 @@
             "id": "021d5f0aebc495a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,13 +122,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md"
               }
             }
           }
@@ -207,19 +183,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbd217cc1c26c3eb",
+  "active": "454e17011386b1ef",
   "lastOpenFiles": [
-    "Computer Science/Syllabus.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
+    "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images/Pasted image 20230905084344.png",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images/Pasted image 20230905093926.png",
+    "Pasted image 20230905093854.png.md",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
+    "Pasted image 20230905093848.png",
+    "Pasted image 20230905093851.png",
+    "Pasted image 20230905093854.png",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Untitled.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Images",
+    "Computer Science/1 - Information representation/Images",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves",
+    "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs",
+    "Geography A level/Coasts",
+    "conflict-files-obsidian-git.md",
+    "Computer Science/Syllabus.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation",
     "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
     "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
     "Math Further P1/1 - Matrices and transformations/Linear functions.md",
@@ -230,24 +222,12 @@
     "ComSci/1 - Information Representation/Conversion between number systems.md",
     "ComSci/1 - Information Representation/Binary addition and subtraction.md",
     "Math Further P1/Units/3 - Roots of polynomials.md",
-    "Math Further P1/Units/6 - Matices and their inverses.md",
-    "Math Further P1/Units/7 - Vectors.md",
-    "Math Further P1/Units/5 - Polar coordinates.md",
-    "Math Further P1/1 - Matrices and transformations/Unit vectors.md",
-    "Math Further P1/Units/4 - Rational functions and graphs.md",
-    "Math Further P1/Units/2 - Series and induction.md",
     "Math Further P1/Units",
     "Math Further P1/1 - Matrices and transformations",
     "Math Further P1",
     "Quick Notes",
     "Physics/Images/Pasted image 20230901221543.png",
-    "Physics/Units",
-    "Physics/Images",
-    "Physics/3 - Dynamics",
-    "Physics/2 - Kinematics",
-    "Physics/1 - Physical quantities and units",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
-    "Pasted image 20230904193556.png",
     "Untitled.canvas"
   ]
 }
