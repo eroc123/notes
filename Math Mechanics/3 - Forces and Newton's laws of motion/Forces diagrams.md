@@ -6,4 +6,4 @@ All forces are vector quantities, they have a direction and a magnitude. Therefo
 - The magnitude of the force
 - Line of action
 
-Since all 
+Since all forces have a [[Perpendicular component of a vector|horizontal and vertical component]], we can calculate the resultant force for any and all forces acting on an object.
