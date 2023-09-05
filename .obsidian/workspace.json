@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2d80f82f5c7b7355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ad1cb060d1b4be4",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -187,13 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7755084cf4bd41f",
+  "active": "2d80f82f5c7b7355",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Newton's second Law.md",
+    "First Law.md",
     "Physics/3 - Dynamics/Newton's second law.md",
     "Physics/3 - Dynamics/Momentum.md",
     "Physics/Physics.md",
-    "First Law.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
@@ -230,7 +247,6 @@
     "Computer Science/Syllabus.md",
     "Computer Science/1 - Information representation/1.1 Data Representation",
     "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
-    "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
     "Math Further P1/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
