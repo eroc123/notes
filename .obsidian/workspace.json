@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md"
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md"
               }
             }
           },
@@ -171,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0756aba495c3e86",
+  "active": "5554813c555ce190",
   "lastOpenFiles": [
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
+    "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
     "Math Mechanics/Math Mechanics.md",
     "conflict-files-obsidian-git.md",
     "Physics/3 - Dynamics/Third Law.md",
@@ -186,7 +189,7 @@
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs",
     "Geography A level/Coasts",
     "Geography A level",
-    "Computer Science/1 - Information representation/Images/Pasted image 20230904193556.png",
+    "Computer Science/Images/Pasted image 20230904193556.png",
     "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
@@ -195,7 +198,7 @@
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
-    "Computer Science/1 - Information representation/Images",
+    "Computer Science/Images",
     "Computer Science/1 - Information representation/1.1 Data Representation",
     "Computer Science/1 - Information representation/1 - Information representation.md",
     "Computer Science/Images/Pasted image 20230904193556.png",
@@ -210,9 +213,6 @@
     "Physics/3 - Dynamics/Impact at an angle.md",
     "Physics/3 - Dynamics/Force as change of momentum.md",
     "Physics/3 - Dynamics/Explosions.md",
-    "Physics/3 - Dynamics/Change in mass.md",
-    "ComSci/1 - Information Representation/Usage of number systems.md",
-    "ComSci/1 - Information Representation/Number systems.md",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
     "Physics/Pasted image 20230901190257.png",
