@@ -23,24 +23,12 @@
             "id": "1c69c2d2a127ec22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1 - Information representation/Lossy vs lossless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a918e1d722f5898d",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a918e1d722f5898d",
+  "active": "1c69c2d2a127ec22",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/Lossy vs lossless.md",
     "Computer Science/Computer Science.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove Formation.md",
@@ -202,7 +191,6 @@
     "Computer Science/Units",
     "Computer Science/1 - Information representation/Conversions between number systems.md",
     "Computer Science/1 - Information representation/Data compression.md",
-    "Computer Science/1 - Information representation/Lossy vs lossless.md",
     "Computer Science/1 - Information representation/File size.md",
     "Computer Science/1 - Information representation/Character representation.md",
     "Physics/1 - Physical quantities and units/Magnitude.md",
