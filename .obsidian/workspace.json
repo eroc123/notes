@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/Usage of number systems.md",
+                "file": "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c69c2d2a127ec22",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/1 - Information representation/Binary-coded Decimal (BCD).md"
+              }
             }
           },
           {
@@ -176,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c69c2d2a127ec22",
+  "active": "5554813c555ce190",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/Usage of number systems.md",
     "Computer Science/1 - Information representation/Lossy vs lossless.md",
     "Computer Science/Computer Science.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
@@ -194,7 +190,6 @@
     "Computer Science/1 - Information representation/File size.md",
     "Computer Science/1 - Information representation/Character representation.md",
     "Physics/1 - Physical quantities and units/Magnitude.md",
-    "Computer Science/1 - Information representation/Usage of number systems.md",
     "Computer Science/1 - Information representation/Number prefixes.md",
     "Computer Science/1 - Information representation/One's and Two's complement.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",

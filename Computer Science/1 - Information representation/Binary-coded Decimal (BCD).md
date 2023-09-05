@@ -3,7 +3,7 @@ Date: 2023-09-04
 tags:
   - numbers binary BCD
 ---
-**Binary-coded Decimal** uses 4 digit binary to represent each denary number
+- **Binary-coded Decimal** uses 4 digit binary to represent each denary number
 	- 0000 = 0
 	- 0001 = 1
 	- 0010 = 2
