@@ -18,5 +18,7 @@
 	- [[Number prefixes]]
 	- [[One's and Two's complement]]
 	- [[Usage of number systems]]
+- **Images**
+
 
 %% End Waypoint %%

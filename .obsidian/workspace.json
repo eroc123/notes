@@ -36,6 +36,14 @@
             }
           },
           {
+            "id": "f7755084cf4bd41f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "1ad1cb060d1b4be4",
             "type": "leaf",
             "state": {
@@ -56,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,11 +187,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e7a1abee3139d2d",
+  "active": "f7755084cf4bd41f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Physics/3 - Dynamics/Newton's second law.md",
+    "Physics/3 - Dynamics/Momentum.md",
+    "Physics/Physics.md",
+    "First Law.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Benefits of Mangroves.md",
-    "conflict-files-obsidian-git.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
@@ -221,10 +231,6 @@
     "Computer Science/1 - Information representation/1.1 Data Representation",
     "Math Further P1/1 - Matrices and transformations/Matrix fundamentals.md",
     "Math Further P1/1 - Matrices and transformations/Matrices and transformations.md",
-    "Math Further P1/1 - Matrices and transformations/Linear functions.md",
-    "Math Further P1/1 - Matrices and transformations/Linear transformations.md",
-    "ComSci/ComSci.md",
-    "ComSci/1 - Information Representation/Number systems.md",
     "Math Further P1/Units",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
