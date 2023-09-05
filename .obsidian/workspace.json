@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
+                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
+                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
+                "file": "Computer Science/1 - Information representation/1 - Information representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/File size.md"
+                "file": "Computer Science/1 - Information representation/1 - Information representation.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "1c69c2d2a127ec22",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
     "Computer Science/Syllabus.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
