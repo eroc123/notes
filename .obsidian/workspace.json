@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Mechanics/Math Mechanics.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Mechanics/Math Mechanics.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Mechanics/Math Mechanics.md",
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Mechanics/Math Mechanics.md"
+                "file": "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md"
               }
             }
           },
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5554813c555ce190",
+  "active": "a0756aba495c3e86",
   "lastOpenFiles": [
+    "Math Mechanics/Math Mechanics.md",
     "conflict-files-obsidian-git.md",
     "Physics/3 - Dynamics/Third Law.md",
     "Geography A level/Coasts/L3.2 Mangroves and Coral Reefs/Mangroves/Mangrove's, Distribution and Characeristics.md",
@@ -212,7 +213,6 @@
     "Physics/3 - Dynamics/Change in mass.md",
     "ComSci/1 - Information Representation/Usage of number systems.md",
     "ComSci/1 - Information Representation/Number systems.md",
-    "ComSci/1 - Information Representation/Binary addition and subtraction.md",
     "Physics/Images/Pasted image 20230901221543.png",
     "obsidian-notes/Physics/Images/Pasted image 20230901221543.png",
     "Physics/Pasted image 20230901190257.png",
