@@ -1,7 +1,11 @@
 #home 
 
-1.1 Number systems Candidates should be able to:
-1 Understand how and why computers use binary to represent all forms of data 
+1. Number systems
+	1. Understand how and why computers use binary to represent all forms of data 
+	2. Understand the denary, binary and hexadecimal number systems 
+	3. Convert between (i) positive denary and positive binary (ii) positive denary and positive hexadecimal (iii) positive hexadecimal and positive binary 
+		1. 
+1 
 2 (a) Understand the denary, binary and hexadecimal number systems (b) Convert between (i) positive denary and positive binary (ii) positive denary and positive hexadecimal (iii) positive hexadecimal and positive binary 
 3 Understand how and why hexadecimal is used as a beneficial method of data representation 
 4 (a) Add two positive 8-bit binary integers (b) Understand the concept of overflow and why it occurs in binary addition
