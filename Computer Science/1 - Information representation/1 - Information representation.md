@@ -3,9 +3,9 @@
 1. Number systems
 	1. Understand how and why computers use binary to represent all forms of data 
 	2. Understand the [[Binary, Denary and Hexadecimal|denary, binary and hexadecimal]] number systems 
-		2. positive denary and positive binary 
-		3. positive denary and positive hexadecimal
-		4. positive hexadecimal and positive binary 
+		2. positive [[Conversions between number systems|denary and positive binary]] 
+		3. positive [[Conversions between number systems|denary and positive hexadecimal]]
+		4. positive [[Conversions between number systems|hexadecimal and positive binary]] 
 	3. Understand how and why hexadecimal is used as a beneficial method of data representation 
 	4. [[Binary addition and subtraction|Add]] two positive 8-bit binary integers
 	5. Understand the concept of overflow and why it occurs in binary addition
@@ -20,14 +20,6 @@
 	2. Calculate the file size of an image file and a sound file, using information given
 	3. Understand the purpose of and need for data compression
 	4. Understand how files are compressed using lossy and lossless compression methods
-
-**1 Information representation**
-	1.1 Data Representation 
-		• [[Binary, Denary and Hexadecimal]]
-		• [[Conversions between number systems]]
-		• [[Conversions between number systems]]
-	1.2 Multimedia – Graphics, Sound 
-	1.3 Compression
 
 %% Begin Waypoint %%
 - **1.1 Data Representation**
