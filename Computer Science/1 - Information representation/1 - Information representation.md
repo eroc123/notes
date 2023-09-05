@@ -2,13 +2,15 @@
 
 1. Number systems
 	1. Understand how and why computers use binary to represent all forms of data 
-	2. Understand the denary, binary and hexadecimal number systems 
+	2. Understand the [[|denary, binary and hexadecimal]] number systems 
 		2. positive denary and positive binary 
 		3. positive denary and positive hexadecimal
 		4. positive hexadecimal and positive binary 
 	3. Understand how and why hexadecimal is used as a beneficial method of data representation 
 	4. Add two positive 8-bit binary integers
 	5. Understand the concept of overflow and why it occurs in binary addition
+	6. Perform a logical binary shift on a positive 8-bit binary integer and understand the effect this has on the positive binary integer
+	7. Use [[One's and Two's complement|two’s complement]] to represent positive and negative 8-bit binary integers
 
 **1 Information representation**
 	1.1 Data Representation 
