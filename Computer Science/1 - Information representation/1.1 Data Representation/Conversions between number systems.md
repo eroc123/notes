@@ -1,7 +1,7 @@
 ---
 Date: 2023-09-04
 tags:
-  - numbers binary hexadecimal denary conversions 
+  - comsci
 ---
 
 ## [[Binary, Denary and Hexadecimal|Binary]] to [[Binary, Denary and Hexadecimal|Denary]]
