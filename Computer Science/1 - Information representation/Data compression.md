@@ -5,8 +5,8 @@ E.g. aaaabbbccccc to 97 4 98 3 99 5 in ASCII
 
 Can also be used for images for color of pixel
 
-**To reduce bitmap image file size:
-**
+**To reduce bitmap image file size:**
+
 - Reduce image resolution
 - Reduce color depth
 - Crop the image

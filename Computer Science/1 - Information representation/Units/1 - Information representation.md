@@ -22,15 +22,17 @@
 	4. Understand how files are compressed using [[Lossy vs lossless|lossy and lossless]] compression methods
 
 %% Begin Waypoint %%
-- **1.1 Data Representation**
-	- [[Binary addition and subtraction]]
-	- [[Binary-coded Decimal (BCD)]]
-	- [[Binary, Denary and Hexadecimal]]
-	- [[Character representation]]
-	- [[Conversions between number systems]]
-	- [[File size]]
-	- [[Number prefixes]]
-	- [[One's and Two's complement]]
-	- [[Usage of number systems]]
+- [[Binary addition and subtraction]]
+- [[Binary-coded Decimal (BCD)]]
+- [[Binary, Denary and Hexadecimal]]
+- [[Bitmap image]]
+- [[Character representation]]
+- [[Conversions between number systems]]
+- [[Data compression]]
+- [[File size]]
+- [[Lossy vs lossless]]
+- [[Number prefixes]]
+- [[One's and Two's complement]]
+- [[Usage of number systems]]
 
 %% End Waypoint %%
