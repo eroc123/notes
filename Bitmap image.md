@@ -7,4 +7,4 @@ The amount of pixels that makes up an image depends on the **image resolution**,
 
 Each image file has a **file header**, which stores the metadata, including file size, image solution, color depth, type of compression etc. 
 
-Images are displayed on a screen. The screen resolution is the amount of pixels that the screen can display, represented by the amount of pixels horizontally by the amount of pixels vertically.
+Images are displayed on a screen. The **screen resolution** is the amount of pixels that the screen can display, represented by the amount of pixels horizontally by the amount of pixels vertically.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitmap image.md",
+                "file": "Data compression.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitmap image.md",
+                "file": "Data compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bitmap image.md",
+                "file": "Data compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bitmap image.md"
+                "file": "Data compression.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "a918e1d722f5898d",
   "lastOpenFiles": [
-    "Lossy vs lossless.md",
     "Bitmap image.md",
+    "Lossy vs lossless.md",
     "Data compression.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/File size.md",
