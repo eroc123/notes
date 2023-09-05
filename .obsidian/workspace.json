@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
+                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c69c2d2a127ec22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data measurement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
+                "file": "Data measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
+                "file": "Data measurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md"
+                "file": "Data measurement.md"
               }
             }
           },
@@ -171,17 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5554813c555ce190",
+  "active": "1c69c2d2a127ec22",
   "lastOpenFiles": [
+    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
+    "Data measurement.md",
     "Computer Science/1 - Information representation/1 - Information representation.md",
+    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary addition and subtraction.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary-coded Decimal (BCD).md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Binary, Denary and Hexadecimal.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Character representation.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/Conversions between number systems.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Number prefixes.md",
     "Computer Science/1 - Information representation/1.1 Data Representation/One's and Two's complement.md",
-    "Computer Science/1 - Information representation/1.1 Data Representation/Usage of number systems.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Centre of mass.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams.md",
     "Math Mechanics/3 - Forces and Newton's laws of motion/Newton's third law of motion.md",
@@ -206,7 +220,6 @@
     "Computer Science/1 - Information representation",
     "Computer Science/Images",
     "Computer Science",
-    "Untitled.md",
     "TODO.md",
     "Physics/3 - Dynamics/Types of collision.md",
     "Physics/3 - Dynamics/Rebound impact.md",
