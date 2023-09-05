@@ -1,2 +1,6 @@
 
-A lossy compression means tha
+A lossy compression means that data will be lost during compression, lossless mean no data will be lost as the name implies
+
+|Lossy|Lossless|
+|---|---|
+|Smaller file size| larger files size
