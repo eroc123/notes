@@ -2,7 +2,8 @@
 
 %% Begin Waypoint %%
 - **3 - Forces and Newton's laws of motion**
-	- [[Forces diagrams]]grams]]
+	- [[Centre of mass]]
+	- [[Forces diagrams]]
 
 %% End Waypoint %%
 
