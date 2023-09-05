@@ -1,4 +1,7 @@
-./.obsidian/themes
-./.obsidian/appearance.json
+.obsidian/*
+.obsidian
+.obsidian/workspace.json
 ./.obsidian/workspace.json
-./.trash/*
+./.obsidian/appearance.json
+./.obsidian
+.trash/*
