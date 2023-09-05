@@ -9,4 +9,8 @@ To calculate file size, one simply find how many bits is used, convert it to byt
 
 To calculate the file size of an image file, you take the width $\times$ height, and times color depth. This gives you the minimum file size.
 
-An image file will always be larger than the minimum size as metadata is stored for each file/
+An image file will always be larger than the minimum size as metadata is stored for each file.
+
+### Audio file
+
+To calculate the file size of an audio file, you take the rate at which data is recorded, e.g. 24 hz and you times that by the number of bits used to represent the sound 
