@@ -8,4 +8,4 @@ By rearranging the formula, we can find impulse
 
 $$Ft = {m_u- m_v} $$
 
-Therefore, by looking at the LHS, we can see that the unit for impulse is newton $\times$ time, or $Ns$ 
+Therefore, by looking at the LHS, we can [[Derived units|derive the unit]] for impulse: newton $\times$ time, or $Ns$ 
