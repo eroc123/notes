@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci
+---
 
 Bitmap images are made up of **pixels**, which are the smallest picture element that can be drawn. 
 - It is a small square with a specific color. 

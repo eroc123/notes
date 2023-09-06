@@ -1,7 +1,7 @@
 ---
 Date: 2023-09-04
 tags:
-  - numbers binary BCD
+  - comsci
 ---
 
 - **Binary-coded Decimal** uses 4 digit binary to represent each denary number

@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci
+---
 
 In computers, data is stored in bits. Each bit can be either 1 or 0
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci
+---
 
 - When doing binary addition, for example when using two's complement set up, if the answer is larger than the largest possible number that the available number of bits can represent, it can cause overflow errors.
 

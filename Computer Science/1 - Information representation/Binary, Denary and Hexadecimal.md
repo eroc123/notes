@@ -1,7 +1,7 @@
 ---
 Date: 2023-09-04
 tags:
-  - numbers binary hexadecimal denary
+  - comsci
 ---
 
 ## Denary
