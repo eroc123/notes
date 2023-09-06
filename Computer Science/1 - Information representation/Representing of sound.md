@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci
+---
 
 **Sound in nature is analogue and consist of pressure variations that can be detected by the human ear**.
 
