@@ -2,6 +2,7 @@
 
 ### Reflection in the x-axis
 
+![[Pasted image 20230906191513.png]]
 ### Reflection in the y-axis
 
 ### Reflection in the line y=x
