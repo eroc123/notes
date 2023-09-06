@@ -9,7 +9,7 @@ $1N$ is roughly a typical apple
 
 $W = F cos(\theta)$
 
-### Hook's law
+### Hookes law
 
 $F = -kx$
 
