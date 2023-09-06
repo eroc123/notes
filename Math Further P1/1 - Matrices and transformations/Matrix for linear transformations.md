@@ -6,15 +6,14 @@ $$\begin{pmatrix} 1&0\\0&-1 \end{pmatrix}$$
 
 ### Reflection in the y-axis
 
-![[Pasted image 20230906191533.png]]
 $$\begin{pmatrix} -1&0\\0&1 \end{pmatrix}$$
 ### Reflection in the line y=x
 
-![[Pasted image 20230906191543.png]]
+$$\begin{pmatrix} 0&1\\1&0 \end{pmatrix}$$
 
 ### Rotation around the origin
 
-![[Pasted image 20230906191607.png]]
+$$\begin{pmatrix} cos(\theta) \end{}$$
 ### Enlargement about the origin
 
 ![[Pasted image 20230906191616.png]]
