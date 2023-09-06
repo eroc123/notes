@@ -3,6 +3,8 @@
 ### Reflection in the x-axis
 
 ![[Pasted image 20230906191513.png]]
+
+$$\begin{pmatirx} 1&0\\$$
 ### Reflection in the y-axis
 
 ![[Pasted image 20230906191533.png]]
