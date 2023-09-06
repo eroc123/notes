@@ -13,10 +13,11 @@ $$\begin{pmatrix} 0&1\\1&0 \end{pmatrix}$$
 
 ### Rotation around the origin
 
-$$\begin{pmatrix} cos(\theta) \end{}$$
+$$\begin{pmatrix} cos(\theta)&-sin(\theta)\\sin(\theta)&cos(\theta) \end{pmatrix}$$
+
 ### Enlargement about the origin
 
-![[Pasted image 20230906191616.png]]
+$$\begin{pmatrix} k&0\\0&k \end{pmatrix}$$
 
 ### Stretch parallel to the x-axis
 
