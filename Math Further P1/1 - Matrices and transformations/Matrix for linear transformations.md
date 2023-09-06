@@ -2,13 +2,12 @@
 
 ### Reflection in the x-axis
 
-![[Pasted image 20230906191513.png]]
-
-$$\begin{pmatirx} 1&0\\0&1 \end{pmatrix}$$
+$$\begin{pmatrix} 1&0\\0&-1 \end{pmatrix}$$
 
 ### Reflection in the y-axis
 
 ![[Pasted image 20230906191533.png]]
+$$\begin{pmatrix} -1&0\\0&1 \end{pmatrix}$$
 ### Reflection in the line y=x
 
 ![[Pasted image 20230906191543.png]]
