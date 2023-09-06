@@ -4,7 +4,8 @@
 
 ![[Pasted image 20230906191513.png]]
 
-$$\begin{pmatirx} 1&0\\$$
+$$\begin{pmatirx} 1&0\\0&1 \end{pmatrix}$$
+
 ### Reflection in the y-axis
 
 ![[Pasted image 20230906191533.png]]
