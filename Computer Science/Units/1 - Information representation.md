@@ -6,9 +6,9 @@
 		2. positive [[Conversions between number systems|denary and positive binary]] 
 		3. positive [[Conversions between number systems|denary and positive hexadecimal]]
 		4. positive [[Conversions between number systems|hexadecimal and positive binary]] 
-	3. Understand how and why hexadecimal is used as a beneficial method of data representation 
+	3. Understand how and why [[Usage of number systems|hexadecimal]] is used as a beneficial method of data representation 
 	4. [[Binary addition and subtraction|Add]] two positive 8-bit binary integers
-	5. Understand the concept of overflow and why it occurs in binary addition
+	5. Understand the concept of [[Binary overflow|overflow]] and why it occurs in binary addition
 	6. Perform a logical binary shift on a positive 8-bit binary integer and understand the effect this has on the positive binary integer
 	7. Use [[One's and Two's complement|two’s complement]] to represent positive and negative 8-bit binary integers
 2. Text, sound and images
