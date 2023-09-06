@@ -10,7 +10,7 @@
 2. **Non-uniform motion**
 	1. show a qualitative understanding of frictional forces and viscous/drag forces including air resistance (no treatment of the coefficients of friction and viscosity is required, and a simple model of drag force increasing as speed increases is sufficient)
 	2. describe and explain qualitatively the motion of objects in a uniform gravitational field with air resistance
-	3. understand that objects moving against a resistive force may reach a terminal (constant) velocity
+	3. understand that objects moving against a resistive force may reach a [[Terminal Velocity|terminal (constant) velocity]]
 3. **Linear momentum and its conservation**
 	1. state the principle of [[Momentum|conservation of momentum]]
 	2. apply the principle of conservation of momentum to solve simple problems, including [[Types of collision|elastic and inelastic interactions]] between objects in both one [[Impact at an angle|and two dimensions ]](knowledge of the concept of coefficient of restitution is not required)
