@@ -3,4 +3,3 @@ Vector graphics are images that are made of shapes and lines using mathematical 
 
 File formats are usually:
 - .svg, .cdm, .odg
-![[Pasted image 20230906124446.png]]
