@@ -3,6 +3,7 @@ Date: 2023-09-04
 tags:
   - numbers binary hexadecimal denary
 ---
+
 ## Denary
 
 Denary uses base 10 and is the common number system we use in everyday life.
