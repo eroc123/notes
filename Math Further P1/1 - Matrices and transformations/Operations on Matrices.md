@@ -4,12 +4,11 @@ cards-deck: Math Further P1::1 - Matrices and transformations
 
 #math 
 
-### Addition and Subtraction
-
+### Addition and Subtraction 
+#card
 - Ensure both matrices are the same [[Matrix fundamentals|dimensions]]
 $$ \begin{pmatrix} 1&3&-7\\4&0&5\end{pmatrix} + \begin{pmatrix} 6& -2 & 9 \\2&1&0  \end{pmatrix} = \begin{pmatrix} 7&1&2\\2&1&0 \end{pmatrix}$$
 ### Multiplication (scalar)
-^1694003697886
 
 $$3 \begin{pmatrix} 1&3&-7\\4&0&5 \end{pmatrix} = \begin{pmatrix} 3&9&-21\\12&0&15 \end{pmatrix}$$
 Each element is multiplied by the scalar
