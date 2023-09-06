@@ -19,13 +19,15 @@
 
 ### Stretch parallel to the x-axis
 
-
+![[Pasted image 20230906191626.png]]
 
 ### Stretch parallel to the y-axis
 
+![[Pasted image 20230906191636.png]]
 ### Shear with x-axis fixed
 
+![[Pasted image 20230906191643.png]]
 ### Shear with y-axis fixed
 
-
+![[Pasted image 20230906191651.png]]
 
