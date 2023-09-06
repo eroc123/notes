@@ -1,8 +1,9 @@
 ---
 Date: 2023-09-04
 tags:
-  - numbers
+  - comsci
 ---
+
 |Decimal prefixes|Value|Binary prefixes|Value|
 |---|---|---|---|
 |Kilo|$10^3$|Kibi|$2^{10}$|

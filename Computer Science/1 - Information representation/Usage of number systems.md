@@ -1,13 +1,4 @@
 #comsci 
----
-Date: 2023-09-04
-tags:
-  - binary
-  - numbers
-  - number usage
-  - hexadecimal
-  - BCD
----
 ### [[Binary-coded Decimal (BCD)]]: 
 
 - Digital clock and calculator display (easy for computer to output denary display)

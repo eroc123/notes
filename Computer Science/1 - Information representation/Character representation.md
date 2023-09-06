@@ -1,9 +1,5 @@
 #comsci 
----
-Date: 2023-09-04
-tags:
-  - numbers binary unicode
----
+
 ### Each [[Usage of number systems|character]] is represented by [[Binary, Denary and Hexadecimal|binary]] codes.
 
 |ASCII|Unicode|
