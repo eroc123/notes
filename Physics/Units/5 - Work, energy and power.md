@@ -11,4 +11,5 @@
 2. Gravitational potential energy and kinetic energy
 	1. derive, using W = Fs, the formula ∆EP = mg∆h for gravitational potential energy changes in a uniform gravitational field
 	2. recall and use the formula ∆EP = mg∆h for gravitational potential energy changes in a uniform gravitational field
-	3. 
+	3. derive, using the equations of motion, the formula for kinetic energy $E_K = {1\over2}mv^2$ 
+	4. recall and use $E_K = {1\over2}mv^2$ 
