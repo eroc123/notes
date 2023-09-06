@@ -2,7 +2,7 @@
 cards-deck: Math Further P1::1 - Matrices and transformations
 ---
 
-#math #card
+#math 
 
 ### Addition and Subtraction
 
