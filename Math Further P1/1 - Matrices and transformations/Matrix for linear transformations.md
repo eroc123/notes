@@ -21,11 +21,11 @@ $$\begin{pmatrix} k&0\\0&k \end{pmatrix}$$
 
 ### Stretch parallel to the x-axis
 
-![[Pasted image 20230906191626.png]]
+$$\begin{pmatrix} k&0\\0&1 \end{pmatrix}$$
 
 ### Stretch parallel to the y-axis
 
-![[Pasted image 20230906191636.png]]
+$$\begin{pmatrix} 1&0 \end{pmatrix}$$
 ### Shear with x-axis fixed
 
 ![[Pasted image 20230906191643.png]]
