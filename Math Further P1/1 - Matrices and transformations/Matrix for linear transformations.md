@@ -31,5 +31,5 @@ $$\begin{pmatrix} 1&0 \\ 0&k \end{pmatrix}$$
 $$\begin{pmatrix} 1&k\\0&1 \end{pmatrix}$$
 ### Shear with y-axis fixed
 
-$$\begin{pmatrix} \end$$
+$$\begin{pmatrix} 1&0\\k&1 \end{pmatrix}$$
 
