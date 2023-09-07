@@ -13,7 +13,7 @@ e.g.
 |--|--|--|--|--|
 |1|0|1|0|1|
 
-1*$2^4$ + 0*$2^3$+1*$2^2$+0*$2^1$ +1*$2^0$ = 16 + 4 + 1 = 21
+1*$2^4$ + 0*$2^3$+1*$2^2$+$0\times2^1$ +$1\times2^0$ = 16 + 4 + 1 = 21
 
 - The conversions from **hex** to **denary** are similar to binary, except you multiply by a place value with base 16 instead of base 2.
 ## Denary to Binary
