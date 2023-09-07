@@ -11,3 +11,7 @@
 **Isostatic change - a local rise or fall in land levels** 
 
 **Eustatic change - a change in sea levels globally** 
+
+**Discordant - a type of coastline where bands of rock are perpendicular to the sea** 
+
+**Concordant - a type of coastline where bands of rock are parallel to the sea**
