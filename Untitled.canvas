@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"558fce5b2de95cea","type":"file","file":"Computer Science/1 - Information representation/Binary addition and subtraction.md","x":-489,"y":-60,"width":400,"height":400},
-		{"id":"09ce9f7e48ede0b2","type":"file","file":"Computer Science/1 - Information representation/File size.md","x":0,"y":-60,"width":400,"height":400}
-	],
-	"edges":[
-		{"id":"cb6a36208ede0cdf","fromNode":"558fce5b2de95cea","fromSide":"right","toNode":"09ce9f7e48ede0b2","toSide":"left"}
-	]
-}
