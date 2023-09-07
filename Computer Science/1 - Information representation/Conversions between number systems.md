@@ -29,7 +29,7 @@ There are two methods to do this
 |1|1|1|0|1|
 
 #### **Method 2**
- ![[Pasted image 20230904193556.png]]
+ ![](https://lh5.googleusercontent.com/dpbZYLp6ApbylQ_pLg4oJDLykzS8EezzceauLSChILBkoiqEAn3zjO3Jy_VAIqy-XoYCOpGHhIRK08BwkwsTPXsOwsQR9UrbJRxR4wbl_wWllck_yhu2hZf1yq5C5jzuSP_sGvtn8PTG4kbDYfsNNbo)
 Get the denary value and divide it successively by two, logging down the remainder each time (either 1 or 0). Then read the remainders from the bottom up to get the binary number.
 
 
