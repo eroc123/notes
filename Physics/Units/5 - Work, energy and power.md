@@ -10,6 +10,6 @@
 	7. derive P = Fv and use it to solve problems
 2. **Gravitational potential energy and kinetic energy**
 	1. derive, using $W = Fs$, the formula $\Delta EP = mg\Delta h$ for [[G.P.E|gravitational potential energy]] changes in a uniform gravitational field
-	2. recall and use the formula $\Delta EP = mg∆h$ for gravitational potential energy changes in a uniform gravitational field
+	2. recall and use the formula $\Delta EP = mg\Delta h$ for gravitational potential energy changes in a uniform gravitational field
 	3. derive, using the equations of motion, the formula for kinetic energy $E_K = {1\over2}mv^2$ 
 	4. recall and use $E_K = {1\over2}mv^2$ 
