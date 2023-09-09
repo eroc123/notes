@@ -2,7 +2,7 @@
 tags:
   - comsci
 ---
-#comsci 
+
 
 ### Each [[Usage of number systems|character]] is represented by [[Binary, Denary and Hexadecimal|binary]] codes.
 
