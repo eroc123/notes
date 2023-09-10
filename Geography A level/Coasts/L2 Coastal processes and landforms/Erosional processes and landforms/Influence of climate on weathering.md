@@ -1,0 +1,6 @@
+- **Temperature**
+	- Colder climates have more mechanical weathering, e.g. freeze thaw
+	- Warmer climates have more chemical weathering as chemical reactions speed up
+	- Biological weathering increases in warm climates
+- **Humidity and rainfall**
+	- Higher rainfall 
