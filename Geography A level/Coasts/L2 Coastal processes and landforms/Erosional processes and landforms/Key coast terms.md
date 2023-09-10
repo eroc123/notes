@@ -19,3 +19,8 @@
 ###### **Weathering - the breakdown of rock in situ.
 
 ###### **Erosion - the breakdown and transportation of rock**
+
+###### **Deposition - the process by which sediment is released from flowing water when it loses energy** 
+###### **Sub aerial processes - land-based processes that occur above the water line**
+- e.g. sub-aerial weathering occurs above the water on cliff faces.
+###### **Mass Movement - the downhill movement of sediment due to gravity**
