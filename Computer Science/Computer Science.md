@@ -46,26 +46,26 @@
 
 ## A Level content 
 
-**13 Data Representation** 
+**13 - Data Representation** 
 	13.1 User-defined data types 
 	13.2 File organisation and access 
 	13.3 Floating-point numbers, representation and manipulation 
-**14 Communication and internet** 
+**14 - Communication and internet** 
 	14.1 Protocols technologies 
 	14.2 Circuit switching, packet switching 
-**15 Hardware and Virtual Machines** 
+**15 - Hardware and Virtual Machines** 
 	15.1 Processors, Parallel Processing and Virtual Machines 
 	15.2 Boolean Algebra and Logic Circuits 
-**16 System Software** 
+**16 - System Software** 
 	16.1 Purposes of an Operating System (OS) 
 	16.2 Translation Software 
-**17 Security** 
+**17 - Security** 
 	17.1 Encryption, Encryption Protocols and Digital certificates 
-**18 Artificial Intelligence (AI)** 
+**18 - Artificial Intelligence (AI)** 
 	18.1 Artificial Intelligence 
-**19 Computational thinking and Problem-solving**
+**19 - Computational thinking and Problem-solving**
 	19.1 Algorithms 
 	19.2 Recursion 
-**20 Further Programming** 
+**20 - Further Programming** 
 	20.1 Programming Paradigms 
 	20.2 File Processing and Exception Handling

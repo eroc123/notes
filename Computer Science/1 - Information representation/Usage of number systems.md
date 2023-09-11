@@ -1,4 +1,5 @@
 #comsci 
+
 ### [[Binary-coded Decimal (BCD)]]:  
 ##### Binary-coded Decimal have the advantage of providing easy conversion between denary (base 10) and binary (base 2).
 

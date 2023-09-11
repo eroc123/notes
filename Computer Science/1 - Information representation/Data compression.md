@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci
+---
 
 **Run Length Encoding** - A form of lossless compression technique by reducing adjacent identical data to two values, first the run value, which is the repeated data, and the run count, which is the amount of time the data is repeated.
 

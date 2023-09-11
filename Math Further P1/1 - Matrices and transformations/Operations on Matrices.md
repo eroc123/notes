@@ -1,6 +1,10 @@
-#math
+---
+cards-deck: Math Further P1::1 - Matrices and transformations
+---
 
-### Addition and Subtraction
+#math 
+
+### Addition and Subtraction 
 
 - Ensure both matrices are the same [[Matrix fundamentals|dimensions]]
 $$ \begin{pmatrix} 1&3&-7\\4&0&5\end{pmatrix} + \begin{pmatrix} 6& -2 & 9 \\2&1&0  \end{pmatrix} = \begin{pmatrix} 7&1&2\\2&1&0 \end{pmatrix}$$
@@ -12,11 +16,9 @@ Each element is multiplied by the scalar
 ### Multiplication (matrix)
 
 $$\begin{pmatrix} 1&0&3&-1\\ 2&8&4&3 \\ 7&-1&0&2 \end{pmatrix}_{3\times 4} \times 
-
 \begin{pmatrix}
 5&1\\1&7\\0&3\\8&-3
 \end{pmatrix}_{4\times2} = 
-
 \begin{pmatrix} -11 & 16\\42&61\\50&-6 \end{pmatrix}$$
 
 For each row in the first matrix, multiply each element by the column in the second matrix

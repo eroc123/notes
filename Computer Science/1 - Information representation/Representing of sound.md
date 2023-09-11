@@ -1,4 +1,11 @@
+ ---
+tags:
+  - comsci
+---
+
 **Sound in nature is analogue and consist of pressure variations that can be detected by the human ear**.
+
+
 
 - A sound encoder consists of two parts:
 	- a band-limiting filter (filters sound below 20 Hz and 20,000 Hz out as they are inaudible to the human ear)

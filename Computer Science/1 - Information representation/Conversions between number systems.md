@@ -13,7 +13,7 @@ e.g.
 |--|--|--|--|--|
 |1|0|1|0|1|
 
-1*$2^4$ + 0*$2^3$+1*$2^2$+0*$2^1$ +1*$2^0$ = 16 + 4 + 1 = 21
+$1\times2^4$ + $0\times2^3$+$1\times2^2$+$0\times2^1$ +$1\times2^0$ = 16 + 4 + 1 = 21
 
 - The conversions from **hex** to **denary** are similar to binary, except you multiply by a place value with base 16 instead of base 2.
 ## Denary to Binary
@@ -29,7 +29,7 @@ There are two methods to do this
 |1|1|1|0|1|
 
 #### **Method 2**
- ![[Pasted image 20230904193556.png]]
+ ![](https://lh5.googleusercontent.com/dpbZYLp6ApbylQ_pLg4oJDLykzS8EezzceauLSChILBkoiqEAn3zjO3Jy_VAIqy-XoYCOpGHhIRK08BwkwsTPXsOwsQR9UrbJRxR4wbl_wWllck_yhu2hZf1yq5C5jzuSP_sGvtn8PTG4kbDYfsNNbo)
 Get the denary value and divide it successively by two, logging down the remainder each time (either 1 or 0). Then read the remainders from the bottom up to get the binary number.
 
 
@@ -46,7 +46,7 @@ Get the denary value and divide it successively by two, logging down the remaind
 |--|--|--|--|
 |15|3|10|2|
 |1111|0011|1010|0010|
-=1111001110100010
+= 1111001110100010
 
 - **To convert from binary to hex, do the exact same thing but in reverse.**
 
