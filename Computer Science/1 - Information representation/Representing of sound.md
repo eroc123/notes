@@ -9,4 +9,4 @@
 		- The higher the resolution, the less distortion there is and **quantization error** there is.
 		- Quantization error is the difference between the analog signal and the closest digital value to the analog signal. Think of it as a rounding off the analogue signal. The higher the resolution, the less "rounding" has to occur to match a digital value, thus reducing noise.
 		- Usually 8 bit, 16 bit, 24 bit or 32 bit (1,2,3 or 4 bytes)
-![[Pasted image 20230906123124.png]]
+![[Sound wave.png]]

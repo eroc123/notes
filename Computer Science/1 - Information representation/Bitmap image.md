@@ -18,4 +18,4 @@ File formats are usually:
 - .png, .jpg, .bpm
 
 Images are displayed on a screen. The **screen resolution** is the amount of pixels that the screen can display, represented by the amount of pixels horizontally by the amount of pixels vertically.
-![[Pasted image 20230906124041.png]]
+![[Bitmap.png]]
