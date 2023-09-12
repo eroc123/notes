@@ -10,7 +10,5 @@
 ![[Drawing 2023-09-12 20.02.24.excalidraw]]
 
 - $Moment = fcos(90-\theta)\times d$
-![[moments.jpg]]
+![[Drawing 2023-09-12 20.05.59.excalidraw]]
 - **Fulcrum**: a pivot
-
-僕の名前はアレッスです
