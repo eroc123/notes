@@ -12,3 +12,4 @@
 - $Moment = fcos(90-\theta)\times d$
 ![[Drawing 2023-09-12 20.05.59.excalidraw]]
 - **Fulcrum**: a pivot
+
