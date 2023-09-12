@@ -13,3 +13,4 @@
 ![[Drawing 2023-09-12 20.05.59.excalidraw]]
 - **Fulcrum**: a pivot
 
+![[Drawing 2023-09-12 20.25.06.excalidraw]]
