@@ -11,6 +11,7 @@
 
 - $Moment = fcos(90-\theta)\times d$
 ![[Drawing 2023-09-12 20.05.59.excalidraw]]
-- **Fulcrum**: a pivot
+### Fulcrum
 
 ![[Drawing 2023-09-12 20.25.06.excalidraw]]
+A pivot, it is considered to be stationary and will not move or break unless stated otherwise
