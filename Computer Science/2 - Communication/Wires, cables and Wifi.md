@@ -1,3 +1,4 @@
+
 - Information is sent across the internet as [[Binary, Denary and Hexadecimal|bits]]
 - Information sent across the internet has three main mediums:
 	- Electricity
