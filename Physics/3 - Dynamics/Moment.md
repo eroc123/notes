@@ -1,3 +1,4 @@
+
 - Force multiplied by the perpendicular distance from the line of action to the point
 - $Moment = F\times d$
 - Units are $Nm$ 
