@@ -7,4 +7,4 @@ The packets does not have to all take the same route and does not have to arrive
 
 e.g. A large image may be split up into many small packets.
 
-Packets are transferred by routers, which checks the packet to see where the packet is heading. Then it picks the cheapest route and pass the packet onto the next router. 
+Packets are transferred by [[Routers|routers]], which checks the packet to see where the packet is heading. Then it picks the cheapest route and pass the packet onto the next router. 

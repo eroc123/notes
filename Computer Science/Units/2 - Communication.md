@@ -1,5 +1,9 @@
-#syllabus 
-#comsci
+---
+tags:
+  - syllabus
+  - comsci
+---
+
 - Show understanding of the purpose and benefits of networking devices
 - Show understanding of the characteristics of a LAN (local area network) and a WAN (wide area network)
 - Explain the client-server and peer-to-peer models of networked computers

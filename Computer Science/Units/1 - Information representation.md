@@ -1,4 +1,9 @@
-#syllabus
+---
+tags:
+  - syllabus
+  - comsci
+---
+
 
 1. **Number systems**
 	1. Understand how and why computers use binary to represent all forms of data 

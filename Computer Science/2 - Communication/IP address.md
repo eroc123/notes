@@ -26,6 +26,7 @@ e.g. 3FFE:F200:0234:AB00:0123:4567:8901:ABCD
 
 A computer visiting a website sends a message containing the website's IP address, as well as its own IP address. Including its own IP address allows the server to know where to send the response to.
 
+<<<<<<< HEAD
 #### DNS
 
 
@@ -38,3 +39,5 @@ DNS are laid out in a hierarchy
 Frist the computer would ask the local DNS for the IP address, if the local DNS does not have the IP address in its cache, it will ask a higher level DNS. This repeats until either the URL is found (with the top level DNS or other lower level DNS), or an address not found error is returned
 
 ##### This note discusses (IP address and DNS server) the process by which a computer looks for the web server requested, the note that discusses what happens after a web server is found is [[HTTP and HTML (web browsing)]]
+=======
+>>>>>>> origin/main
