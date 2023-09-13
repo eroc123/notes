@@ -1,3 +1,4 @@
+
 - Information is sent across the internet as [[Binary, Denary and Hexadecimal|bits]]
 - Information sent across the internet has three main mediums:
 	- Electricity
@@ -12,4 +13,5 @@
 		- This means that each second, you record whether the light bulb is on or off. This allows you to know how many 0's or how many 1's in a row you are recording.
 		- For example, at 1 bit per second, if the light bulb remains off (0) for 5 seconds, then the string would be 00000.
 			- five 0's as the state of the light bulb is recorded once per second for 5 seconds.
-		-  
+-   **Latency**: 
+	- Time taken for a bit to travel from one place to another

@@ -20,7 +20,7 @@
 - Describe the role and function of a router in a network
 - Show understanding of Ethernet and how collisions are detected and avoided
 	- Including Carrier Sense Multiple Access /Collision Detection (CSMA/CD)
-- Show understanding of bit streaming
+- Show understanding of [[Key information and terms|bit streaming]]
 	- Methods of bit streaming, i.e. real-time and on-demand
 	- Importance of bit rates broadband speed on bit streaming
 - Show understanding of the differences between the World Wide Web (WWW) and the internet
