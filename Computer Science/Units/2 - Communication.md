@@ -1,3 +1,8 @@
+---
+tags:
+  - syllabus
+  - comsci
+---
 #syllabus 
 #comsci
 - Show understanding of the purpose and benefits of networking devices
