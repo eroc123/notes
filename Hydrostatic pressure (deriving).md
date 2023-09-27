@@ -3,7 +3,7 @@ share: "true"
 ---
 
 
-![[Hydrostatic Pressure|40%]]
+![40%](Hydrostatic%20Pressure.md)
 The pressure on area $A$ is due to the weight of the column of water $h$ above it
 $$ P ={F \over A}$$
 
