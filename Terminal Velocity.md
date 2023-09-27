@@ -2,10 +2,10 @@
 share: "true"
 ---
 
-When an object is moving through a fluid (gas or liquid), the object experiences [[Drag Force|drag]].
+When an object is moving through a fluid (gas or liquid), the object experiences [drag](Drag%20Force.md).
 
 The size of drag is related to the speed of the object. The higher the speed of an object, the higher the drag. Eventually, the size of the drag will be equal to the force of acceleration, thus acceleration will equal to 0 and velocity will be constant.
-![[Terminal Velocity.png|Terminal Velocity.png]]
+![Terminal Velocity.png](./Physics/Images/Terminal%20Velocity.png)
 ### Factors affecting terminal velocity
 
 The shape: - more streamlined causes higher terminal velocity

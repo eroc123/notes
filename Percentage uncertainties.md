@@ -25,7 +25,7 @@ Don’t forget that each individual measurement has readability uncertainty
 
 $\text{Percentage uncertainties(error)} = {\Delta x \over x} 100\%$   <- When you have large value of $x$ with the same level of accuracy, the uncertainty decreases. 
 
-$\Delta x$ is basically the $\pm \text{ value}$ that an instrument have (the [[Accuracy vs precision|precision]] of the insrumen) 
+$\Delta x$ is basically the $\pm \text{ value}$ that an instrument have (the [precision](Accuracy%20vs%20precision.md) of the insrumen) 
 
 When you are given multiple uncertainties, all you have to do is to add them up
 

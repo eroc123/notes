@@ -11,4 +11,4 @@ $KE = 1/2mv^2$
 - An object's kinetic energy will increase/decrease if its speed increases/decreases respectively.
 
 - Use SUVAT, $F=ma$, $W=Fs$, $v^2=u^2+2as$
-![[derive kinetic energy.png|derive kinetic energy.png]]
+![derive kinetic energy.png](./Physics/Images/derive%20kinetic%20energy.png)

@@ -3,7 +3,7 @@ share: "true"
 ---
 #physics
 
-[[SI units|Base units]]
+[Base units](SI%20units.md)
 
 |Physical quantity|Defined as|Unit|Special name|
 |---|---|---|---|

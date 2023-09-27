@@ -6,4 +6,4 @@ share: "true"
 $W = Fd$ Force in Newtons (N) and d in meters (m). $Nm = Newton meters$
 
 - When an object is moved, **energy is transferred (J)**  to the block to increase its kinetic energy
-![[work done.png|work done.png]]
+![work done.png](./Physics/Images/work%20done.png)

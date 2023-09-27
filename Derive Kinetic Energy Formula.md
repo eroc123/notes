@@ -2,4 +2,4 @@
 share: "true"
 ---
 Target: $KE = 1/2mv^2$
-![[Deriving kinetic energy formula.png|Deriving kinetic energy formula.png]]
+![Deriving kinetic energy formula.png](./Physics/Images/Deriving%20kinetic%20energy%20formula.png)

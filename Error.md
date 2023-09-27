@@ -4,7 +4,7 @@ share: "true"
 
 **Precision:** How close together the measurements are
 **Accuracy:** How close to the true data the measurements are
-![[Precision and accuracy.png|Precision and accuracy.png]]
+![Precision and accuracy.png](./Physics/Images/Precision%20and%20accuracy.png)
 #### Random error
 - Fluctuations in readings due to environmental factors - can cause reduction in **precision** and higher spread of values
 - Solution: repeat experiment multiple times and average the values out
