@@ -2,10 +2,10 @@
 share: "true"
 ---
 
-![[Deriving SUVAT 4|Deriving SUVAT 4]]
+![Deriving SUVAT 4](Deriving%20SUVAT%204.md)
  SUVAT formulas can be deduced from the velocity time graph above
  
 
-![[Deriving SUVAT 1|600]]
-![[Deriving SUVAT 2|600]]
-![[Deriving SUVAT 3|600]]
+![600](Deriving%20SUVAT%201.md)
+![600](Deriving%20SUVAT%202.md)
+![600](Deriving%20SUVAT%203.md)
