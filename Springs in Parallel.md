@@ -9,7 +9,7 @@ If there are two springs in parallel holding the same mass, then the formula wou
 - Substitute in the two formulas for hookes law and you get to the formula $W=k_p\Delta L + k_q\Delta L$
 - therefore $W=\Delta L(k_p + k_q)$
 - $k_p + k_q = k$
-![[Spring in parallel|Spring in parallel]]
+![Spring in parallel](Spring%20in%20parallel.md)
 
 
 
