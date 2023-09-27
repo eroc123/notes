@@ -11,7 +11,7 @@ share: "true"
 - The wider the base, the more stable the object
 - The lower the center of gravity, the more stable the object (you have to tilt the object farther to topple it)
 
-![[Center of gravity|100%]] 
+![100%](Center%20of%20gravity.md) 
 
 - In a uniform gravitational field, center of mass = center of gravity
 - Center of gravity does depend on gravitational field, whilst center of mass does not.
